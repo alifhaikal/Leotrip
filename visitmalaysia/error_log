@@ -1,0 +1,57 @@
+[01-Aug-2016 09:04:18 UTC] PHP Parse error:  syntax error, unexpected '"' in /home/slumber6/public_html/visitmalaysia/save_data.php on line 21
+[01-Aug-2016 13:25:05 UTC] PHP Parse error:  syntax error, unexpected '' (T_ENCAPSED_AND_WHITESPACE), expecting identifier (T_STRING) or variable (T_VARIABLE) or number (T_NUM_STRING) in /home/slumber6/public_html/visitmalaysia/save_data.php on line 29
+[01-Aug-2016 13:25:29 UTC] PHP Parse error:  syntax error, unexpected '$row' (T_VARIABLE), expecting ',' or ';' in /home/slumber6/public_html/visitmalaysia/save_data.php on line 29
+[01-Aug-2016 13:25:56 UTC] PHP Parse error:  syntax error, unexpected '$row' (T_VARIABLE), expecting ',' or ';' in /home/slumber6/public_html/visitmalaysia/save_data.php on line 29
+[01-Aug-2016 13:25:59 UTC] PHP Parse error:  syntax error, unexpected '$row' (T_VARIABLE), expecting ',' or ';' in /home/slumber6/public_html/visitmalaysia/save_data.php on line 29
+[01-Aug-2016 13:26:03 UTC] PHP Parse error:  syntax error, unexpected '$row' (T_VARIABLE), expecting ',' or ';' in /home/slumber6/public_html/visitmalaysia/save_data.php on line 29
+[01-Aug-2016 13:27:29 UTC] PHP Parse error:  syntax error, unexpected 'width' (T_STRING), expecting ',' or ';' in /home/slumber6/public_html/visitmalaysia/save_data.php on line 26
+[01-Aug-2016 13:28:22 UTC] PHP Parse error:  syntax error, unexpected 'width' (T_STRING), expecting ',' or ';' in /home/slumber6/public_html/visitmalaysia/save_data.php on line 26
+[01-Aug-2016 13:28:51 UTC] PHP Parse error:  syntax error, unexpected '$row' (T_VARIABLE), expecting ',' or ';' in /home/slumber6/public_html/visitmalaysia/save_data.php on line 29
+[01-Aug-2016 13:30:32 UTC] PHP Parse error:  syntax error, unexpected '$row' (T_VARIABLE), expecting ',' or ';' in /home/slumber6/public_html/visitmalaysia/save_data.php on line 28
+[01-Aug-2016 13:30:34 UTC] PHP Parse error:  syntax error, unexpected '$row' (T_VARIABLE), expecting ',' or ';' in /home/slumber6/public_html/visitmalaysia/save_data.php on line 28
+[01-Aug-2016 13:40:34 UTC] PHP Parse error:  syntax error, unexpected 'width' (T_STRING), expecting ',' or ';' in /home/slumber6/public_html/visitmalaysia/save_data.php on line 26
+[01-Aug-2016 13:40:52 UTC] PHP Parse error:  syntax error, unexpected '$row' (T_VARIABLE), expecting ',' or ';' in /home/slumber6/public_html/visitmalaysia/save_data.php on line 28
+[01-Aug-2016 13:41:10 UTC] PHP Parse error:  syntax error, unexpected '$row' (T_VARIABLE), expecting ',' or ';' in /home/slumber6/public_html/visitmalaysia/save_data.php on line 28
+[01-Aug-2016 13:41:13 UTC] PHP Parse error:  syntax error, unexpected '$row' (T_VARIABLE), expecting ',' or ';' in /home/slumber6/public_html/visitmalaysia/save_data.php on line 28
+[01-Aug-2016 13:41:34 UTC] PHP Parse error:  syntax error, unexpected '$row' (T_VARIABLE), expecting ',' or ';' in /home/slumber6/public_html/visitmalaysia/save_data.php on line 28
+[01-Aug-2016 13:41:35 UTC] PHP Parse error:  syntax error, unexpected '$row' (T_VARIABLE), expecting ',' or ';' in /home/slumber6/public_html/visitmalaysia/save_data.php on line 28
+[01-Aug-2016 13:49:18 UTC] PHP Parse error:  syntax error, unexpected 'width' (T_STRING), expecting ',' or ';' in /home/slumber6/public_html/visitmalaysia/save_data.php on line 25
+[01-Aug-2016 13:52:41 UTC] PHP Parse error:  syntax error, unexpected '1' (T_LNUMBER), expecting ',' or ';' in /home/slumber6/public_html/visitmalaysia/save_data.php on line 25
+[01-Aug-2016 14:02:06 UTC] PHP Parse error:  syntax error, unexpected 'button' (T_STRING), expecting ',' or ';' in /home/slumber6/public_html/visitmalaysia/save_data.php on line 30
+[01-Aug-2016 14:02:43 UTC] PHP Parse error:  syntax error, unexpected '}', expecting ',' or ';' in /home/slumber6/public_html/visitmalaysia/save_data.php on line 32
+[01-Aug-2016 14:04:08 UTC] PHP Parse error:  syntax error, unexpected '}', expecting ',' or ';' in /home/slumber6/public_html/visitmalaysia/save_data.php on line 32
+[01-Aug-2016 14:04:11 UTC] PHP Parse error:  syntax error, unexpected '}', expecting ',' or ';' in /home/slumber6/public_html/visitmalaysia/save_data.php on line 32
+[03-Aug-2016 11:34:44 UTC] PHP Parse error:  syntax error, unexpected ';' in /home/slumber6/public_html/visitmalaysia/search_destination.php on line 18
+[03-Aug-2016 11:35:11 UTC] PHP Parse error:  syntax error, unexpected ';' in /home/slumber6/public_html/visitmalaysia/search_destination.php on line 18
+[03-Aug-2016 11:35:14 UTC] PHP Parse error:  syntax error, unexpected ';' in /home/slumber6/public_html/visitmalaysia/search_destination.php on line 18
+[03-Aug-2016 11:35:28 UTC] PHP Warning:  mysql_num_rows() expects parameter 1 to be resource, boolean given in /home/slumber6/public_html/visitmalaysia/search_destination.php on line 21
+[03-Aug-2016 11:38:05 UTC] PHP Warning:  mysql_num_rows() expects parameter 1 to be resource, boolean given in /home/slumber6/public_html/visitmalaysia/search_destination.php on line 21
+[03-Aug-2016 11:38:18 UTC] PHP Warning:  mysql_num_rows() expects parameter 1 to be resource, boolean given in /home/slumber6/public_html/visitmalaysia/search_destination.php on line 20
+[03-Aug-2016 11:39:43 UTC] PHP Warning:  mysql_num_rows() expects parameter 1 to be resource, boolean given in /home/slumber6/public_html/visitmalaysia/search_destination.php on line 20
+[03-Aug-2016 11:39:43 UTC] PHP Warning:  mysql_num_rows() expects parameter 1 to be resource, boolean given in /home/slumber6/public_html/visitmalaysia/search_destination.php on line 22
+[04-Aug-2016 03:49:23 UTC] PHP Parse error:  syntax error, unexpected 'cols' (T_STRING), expecting ',' or ';' in /home/slumber6/public_html/visitmalaysia/show_data.php on line 20
+[04-Aug-2016 03:49:55 UTC] PHP Parse error:  syntax error, unexpected '50' (T_LNUMBER), expecting ',' or ';' in /home/slumber6/public_html/visitmalaysia/show_data.php on line 20
+[04-Aug-2016 03:53:58 UTC] PHP Parse error:  syntax error, unexpected '4' (T_LNUMBER), expecting ',' or ';' in /home/slumber6/public_html/visitmalaysia/show_data.php on line 20
+[04-Aug-2016 03:55:01 UTC] PHP Parse error:  syntax error, unexpected '4' (T_LNUMBER), expecting ',' or ';' in /home/slumber6/public_html/visitmalaysia/show_data.php on line 20
+[04-Aug-2016 03:55:01 UTC] PHP Parse error:  syntax error, unexpected '4' (T_LNUMBER), expecting ',' or ';' in /home/slumber6/public_html/visitmalaysia/show_data.php on line 20
+[04-Aug-2016 03:55:05 UTC] PHP Parse error:  syntax error, unexpected '4' (T_LNUMBER), expecting ',' or ';' in /home/slumber6/public_html/visitmalaysia/show_data.php on line 20
+[04-Aug-2016 03:58:47 UTC] PHP Parse error:  syntax error, unexpected '<' in /home/slumber6/public_html/visitmalaysia/show_data.php on line 21
+[04-Aug-2016 04:05:09 UTC] PHP Parse error:  syntax error, unexpected 'value' (T_STRING), expecting ',' or ';' in /home/slumber6/public_html/visitmalaysia/show_data.php on line 20
+[04-Aug-2016 04:08:33 UTC] PHP Parse error:  syntax error, unexpected '"', expecting identifier (T_STRING) or variable (T_VARIABLE) or number (T_NUM_STRING) in /home/slumber6/public_html/visitmalaysia/show_data.php on line 20
+[04-Aug-2016 05:37:50 UTC] PHP Parse error:  syntax error, unexpected '"</textarea> </td><td><input t' (T_CONSTANT_ENCAPSED_STRING), expecting ',' or ';' in /home/slumber6/public_html/visitmalaysia/show_data.php on line 20
+[04-Aug-2016 05:38:32 UTC] PHP Parse error:  syntax error, unexpected '"</textarea> </td><td><input t' (T_CONSTANT_ENCAPSED_STRING), expecting ',' or ';' in /home/slumber6/public_html/visitmalaysia/show_data.php on line 20
+[04-Aug-2016 05:38:35 UTC] PHP Parse error:  syntax error, unexpected '"</textarea> </td><td><input t' (T_CONSTANT_ENCAPSED_STRING), expecting ',' or ';' in /home/slumber6/public_html/visitmalaysia/show_data.php on line 20
+[04-Aug-2016 05:38:39 UTC] PHP Parse error:  syntax error, unexpected '"</textarea> </td><td><input t' (T_CONSTANT_ENCAPSED_STRING), expecting ',' or ';' in /home/slumber6/public_html/visitmalaysia/show_data.php on line 20
+[04-Aug-2016 06:06:35 UTC] PHP Parse error:  syntax error, unexpected '=' in /home/slumber6/public_html/visitmalaysia/upd_data.php on line 20
+[04-Aug-2016 06:09:17 UTC] PHP Parse error:  syntax error, unexpected '=' in /home/slumber6/public_html/visitmalaysia/upd_data.php on line 20
+[04-Aug-2016 06:10:25 UTC] PHP Parse error:  syntax error, unexpected '=' in /home/slumber6/public_html/visitmalaysia/upd_data.php on line 20
+[04-Aug-2016 06:10:30 UTC] PHP Parse error:  syntax error, unexpected '=' in /home/slumber6/public_html/visitmalaysia/upd_data.php on line 20
+[04-Aug-2016 06:10:39 UTC] PHP Parse error:  syntax error, unexpected '=' in /home/slumber6/public_html/visitmalaysia/upd_data.php on line 20
+[04-Aug-2016 06:11:10 UTC] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in /home/slumber6/public_html/visitmalaysia/upd_data.php on line 28
+[04-Aug-2016 06:30:32 UTC] PHP Parse error:  syntax error, unexpected '.' in /home/slumber6/public_html/visitmalaysia/show_data.php on line 20
+[04-Aug-2016 06:30:54 UTC] PHP Parse error:  syntax error, unexpected '"', expecting identifier (T_STRING) or variable (T_VARIABLE) or number (T_NUM_STRING) in /home/slumber6/public_html/visitmalaysia/show_data.php on line 20
+[04-Aug-2016 06:31:53 UTC] PHP Parse error:  syntax error, unexpected '' (T_ENCAPSED_AND_WHITESPACE), expecting identifier (T_STRING) or variable (T_VARIABLE) or number (T_NUM_STRING) in /home/slumber6/public_html/visitmalaysia/show_data.php on line 20
+[04-Aug-2016 06:31:56 UTC] PHP Parse error:  syntax error, unexpected '' (T_ENCAPSED_AND_WHITESPACE), expecting identifier (T_STRING) or variable (T_VARIABLE) or number (T_NUM_STRING) in /home/slumber6/public_html/visitmalaysia/show_data.php on line 20
+[05-Aug-2016 01:47:17 UTC] PHP Parse error:  syntax error, unexpected '}', expecting ',' or ';' in /home/slumber6/public_html/visitmalaysia/upd_data.php on line 35
+[05-Aug-2016 02:18:49 UTC] PHP Parse error:  syntax error, unexpected '"', expecting identifier (T_STRING) or variable (T_VARIABLE) or number (T_NUM_STRING) in /home/slumber6/public_html/visitmalaysia/upd_data.php on line 30
+[05-Aug-2016 02:19:47 UTC] PHP Parse error:  syntax error, unexpected '.' in /home/slumber6/public_html/visitmalaysia/upd_data.php on line 30

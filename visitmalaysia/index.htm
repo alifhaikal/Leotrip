@@ -1,0 +1,37 @@
+<html>
+<head>
+	<meta content="text/html; charset=utf-8" http-equiv="Content-Type" />
+	<title>Online Tourist Site Registration</title>
+</head>
+<body>
+<h1>Malaysian Online Tourism&nbsp;Site Registration</h1>
+
+<form action="save_data.php" method="get">
+<fieldset>
+<p><span style="font-size:20px;"><span style="color:#FF0000;"><strong>New Registration for Tourism</strong></span>&nbsp;</span></p>
+
+<p>Location Name:<br />
+<input name="location" required="" size="40" type="text" /></p>
+
+<p>State:<br />
+<select input="" name="state"><option value="Perlis">Perlis</option><option value="Kedah">Kedah</option><option value="Perak">Perak</option><option value="Pulau Pinang">Pulau Pinang</option><option value="Terengganu">Terengganu</option><option value="Kelantan">Kelantan</option><option value="Selangor">Selangor</option><option value="Melaka">Melaka</option><option value="Negeri Sembilan">Negeri Sembilan</option><option value="Pahang">Pahang</option><option value="Johor">Johor</option><option value="Sabah">Sabah</option><option value="Sarawak">Sarawak</option> </select></p>
+Description:<br />
+<textarea cols="50" name="desc" rows="4"></textarea><br />
+Latitude: <input name="lat" required="" type="text" /> Longitude: <input name="lon" required="" type="text" /><br />
+URL:<br />
+<input name="url" size="35" type="text" /><br />
+Contact Phone:<br />
+<input name="contact" type="text" /><br />
+Address:<br />
+<textarea cols="50" name="address" rows="4"></textarea><br />
+<input type="submit" value="Submit" /></fieldset>
+</form>
+
+<form action="show_data.php" method="get">
+<fieldset><span style="font-size:20px;"><span style="color:#FF0000;"><strong>Show or edit places of interest based on selected state</strong></span></span><br />
+State:<br />
+<select input="" name="state"><option value="Perlis">Perlis</option><option value="Kedah">Kedah</option><option value="Perak">Perak</option><option value="Pulau Pinang">Pulau Pinang</option><option value="Terengganu">Terengganu</option><option value="Kelantan">Kelantan</option><option value="Selangor">Selangor</option><option value="Melaka">Melaka</option><option value="Negeri Sembilan">Negeri Sembilan</option><option value="Pahang">Pahang</option><option value="Johor">Johor</option><option value="Sabah">Sabah</option><option value="Sarawak">Sarawak</option> </select><br />
+<input type="submit" value="Show Table" /></fieldset>
+</form>
+</body>
+</html>
