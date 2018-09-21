@@ -1,5 +1,2 @@
 # Leotrip
-Open-Data-Hackathon
-Hackathon Data Terbuka Malaysia 2018 merupakan satu pertandingan pembangunan produk atau aplikasi menggunakan set data yang disediakan di Portal Data Terbuka Malaysia sebagai data asas di samping menggunakan sumber-sumber data lain. Penganjuran Hackathon ini bertujuan untuk menyediakan ruang perkongsian ilmu, mempromosi produk atau inisiatif digital perkhidmatan awam dan menggalakkan penglibatan komuniti dalam membangunkan produk inovasi menggunakan Data Terbuka Malaysia.
-
-Terima Kasih
+Leotrip is a mobile application that matches tourism products to tourists' preferences. Developed on Android, this application derives information from the Malaysian Ministry of Culture and Tourism Data Set to match popular tourism products and activities to tourists' preferences. Tourists need to only furnish this application with their preferred products and activities, and this application will display details such as location, price,  and other relevant information to the tourists. This application will assist tourists to plan where to go, and what to do during their visits. This application also helps to promote local tourism industry and contribute to the socio-economic development of local communities.
