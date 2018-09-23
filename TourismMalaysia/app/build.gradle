@@ -1,13 +1,13 @@
 apply plugin: 'com.android.application'
 
 android {
-    compileSdkVersion 18
-    buildToolsVersion "25.0.2"
+    compileSdkVersion 21
+    buildToolsVersion '27.0.3'
 
     defaultConfig {
         applicationId "com.slumberjer.tourism"
-        minSdkVersion 14
-        targetSdkVersion 18
+        minSdkVersion 18
+        targetSdkVersion 21
     }
 
     buildTypes {
@@ -19,5 +19,6 @@ android {
 }
 
 dependencies {
-    compile 'com.google.android.gms:play-services:+'
+    //compile 'com.google.android.gms:play-services:+'
+    implementation 'com.google.android.gms:play-services-maps:+'
 }

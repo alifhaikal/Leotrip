@@ -1,451 +1,222 @@
 -- Merging decision tree log ---
 manifest
-ADDED from C:\Users\slumb\Desktop\TourismMalaysia\app\src\main\AndroidManifest.xml:2:1-50:12
+ADDED from C:\Users\Chimok\AndroidStudioProjects\TourismMalaysia\app\src\main\AndroidManifest.xml:2:1-60:12
+INJECTED from C:\Users\Chimok\AndroidStudioProjects\TourismMalaysia\app\src\main\AndroidManifest.xml:2:1-60:12
+INJECTED from C:\Users\Chimok\AndroidStudioProjects\TourismMalaysia\app\src\main\AndroidManifest.xml:2:1-60:12
+INJECTED from C:\Users\Chimok\AndroidStudioProjects\TourismMalaysia\app\src\main\AndroidManifest.xml:2:1-60:12
+MERGED from [com.google.android.gms:play-services-maps:15.0.1] C:\Users\Chimok\.gradle\caches\transforms-1\files-1.1\play-services-maps-15.0.1.aar\75a1b404b9eaa429d07a3571e6da7155\AndroidManifest.xml:17:1-32:12
+MERGED from [com.google.android.gms:play-services-base:15.0.1] C:\Users\Chimok\.gradle\caches\transforms-1\files-1.1\play-services-base-15.0.1.aar\5c14291f05b187a0aa030c3d7cc8a236\AndroidManifest.xml:17:1-29:12
+MERGED from [com.google.android.gms:play-services-tasks:15.0.1] C:\Users\Chimok\.gradle\caches\transforms-1\files-1.1\play-services-tasks-15.0.1.aar\8977548e8fd10a6b8944c603ea3ff420\AndroidManifest.xml:2:1-9:12
+MERGED from [com.google.android.gms:play-services-basement:15.0.1] C:\Users\Chimok\.gradle\caches\transforms-1\files-1.1\play-services-basement-15.0.1.aar\072170c4612a2fc8a84db290e8fd4e95\AndroidManifest.xml:17:1-28:12
+MERGED from [com.android.support:support-v4:26.1.0] C:\Users\Chimok\.gradle\caches\transforms-1\files-1.1\support-v4-26.1.0.aar\ee2131714645f29aa5ba311cab1d9446\AndroidManifest.xml:17:1-31:12
+MERGED from [com.android.support:support-media-compat:26.1.0] C:\Users\Chimok\.gradle\caches\transforms-1\files-1.1\support-media-compat-26.1.0.aar\3cc74c322021f0dfab158a0d827e7fc8\AndroidManifest.xml:17:1-31:12
+MERGED from [com.android.support:support-fragment:26.1.0] C:\Users\Chimok\.gradle\caches\transforms-1\files-1.1\support-fragment-26.1.0.aar\e3db7effc204848c297adcfbb71e56b3\AndroidManifest.xml:17:1-31:12
+MERGED from [com.android.support:support-core-utils:26.1.0] C:\Users\Chimok\.gradle\caches\transforms-1\files-1.1\support-core-utils-26.1.0.aar\35ac33d29dfa0fef876840ca002ea1fa\AndroidManifest.xml:17:1-31:12
+MERGED from [com.android.support:support-core-ui:26.1.0] C:\Users\Chimok\.gradle\caches\transforms-1\files-1.1\support-core-ui-26.1.0.aar\1f6177d9549dd4a25fe4361f18d1d5c5\AndroidManifest.xml:17:1-31:12
+MERGED from [com.android.support:support-compat:26.1.0] C:\Users\Chimok\.gradle\caches\transforms-1\files-1.1\support-compat-26.1.0.aar\7608335ccef3d0ec1483345e035fc274\AndroidManifest.xml:17:1-31:12
+MERGED from [android.arch.lifecycle:runtime:1.0.0] C:\Users\Chimok\.gradle\caches\transforms-1\files-1.1\runtime-1.0.0.aar\f63e5dabfa5c1084dd6360639c7778f8\AndroidManifest.xml:17:1-30:12
+INJECTED from C:\Users\Chimok\AndroidStudioProjects\TourismMalaysia\app\src\main\AndroidManifest.xml:2:1-60:12
+INJECTED from C:\Users\Chimok\AndroidStudioProjects\TourismMalaysia\app\src\main\AndroidManifest.xml:2:1-60:12
+INJECTED from C:\Users\Chimok\AndroidStudioProjects\TourismMalaysia\app\src\main\AndroidManifest.xml:2:1-60:12
 	package
-		ADDED from C:\Users\slumb\Desktop\TourismMalaysia\app\src\main\AndroidManifest.xml:3:5-37
-		INJECTED from C:\Users\slumb\Desktop\TourismMalaysia\app\src\main\AndroidManifest.xml
-		INJECTED from C:\Users\slumb\Desktop\TourismMalaysia\app\src\main\AndroidManifest.xml
+		ADDED from C:\Users\Chimok\AndroidStudioProjects\TourismMalaysia\app\src\main\AndroidManifest.xml:3:5-37
+		INJECTED from C:\Users\Chimok\AndroidStudioProjects\TourismMalaysia\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\Chimok\AndroidStudioProjects\TourismMalaysia\app\src\main\AndroidManifest.xml
 	android:versionName
-		ADDED from C:\Users\slumb\Desktop\TourismMalaysia\app\src\main\AndroidManifest.xml:5:5-30
-		INJECTED from C:\Users\slumb\Desktop\TourismMalaysia\app\src\main\AndroidManifest.xml
-		INJECTED from C:\Users\slumb\Desktop\TourismMalaysia\app\src\main\AndroidManifest.xml
-	android:versionCode
-		ADDED from C:\Users\slumb\Desktop\TourismMalaysia\app\src\main\AndroidManifest.xml:4:5-28
-		INJECTED from C:\Users\slumb\Desktop\TourismMalaysia\app\src\main\AndroidManifest.xml
-		INJECTED from C:\Users\slumb\Desktop\TourismMalaysia\app\src\main\AndroidManifest.xml
+		ADDED from C:\Users\Chimok\AndroidStudioProjects\TourismMalaysia\app\src\main\AndroidManifest.xml:5:5-30
+		INJECTED from C:\Users\Chimok\AndroidStudioProjects\TourismMalaysia\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\Chimok\AndroidStudioProjects\TourismMalaysia\app\src\main\AndroidManifest.xml
 	xmlns:android
-		ADDED from C:\Users\slumb\Desktop\TourismMalaysia\app\src\main\AndroidManifest.xml:2:11-69
+		ADDED from C:\Users\Chimok\AndroidStudioProjects\TourismMalaysia\app\src\main\AndroidManifest.xml:2:11-69
+	android:versionCode
+		ADDED from C:\Users\Chimok\AndroidStudioProjects\TourismMalaysia\app\src\main\AndroidManifest.xml:4:5-28
+		INJECTED from C:\Users\Chimok\AndroidStudioProjects\TourismMalaysia\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\Chimok\AndroidStudioProjects\TourismMalaysia\app\src\main\AndroidManifest.xml
 uses-sdk
-ADDED from C:\Users\slumb\Desktop\TourismMalaysia\app\src\main\AndroidManifest.xml:7:5-9:41
-MERGED from [com.google.android.gms:play-services:10.2.0] C:\Users\slumb\Desktop\TourismMalaysia\app\build\intermediates\exploded-aar\com.google.android.gms\play-services\10.2.0\AndroidManifest.xml:4:5-43
-MERGED from [com.google.android.gms:play-services-ads:10.2.0] C:\Users\slumb\Desktop\TourismMalaysia\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-ads\10.2.0\AndroidManifest.xml:17:5-43
-MERGED from [com.google.android.gms:play-services-ads-lite:10.2.0] C:\Users\slumb\Desktop\TourismMalaysia\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-ads-lite\10.2.0\AndroidManifest.xml:22:5-43
-MERGED from [com.google.android.gms:play-services-basement:10.2.0] C:\Users\slumb\Desktop\TourismMalaysia\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-basement\10.2.0\AndroidManifest.xml:17:5-43
-MERGED from [com.android.support:support-v4:24.0.0] C:\Users\slumb\Desktop\TourismMalaysia\app\build\intermediates\exploded-aar\com.android.support\support-v4\24.0.0\AndroidManifest.xml:21:5-23:54
-MERGED from [com.google.android.gms:play-services-base:10.2.0] C:\Users\slumb\Desktop\TourismMalaysia\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-base\10.2.0\AndroidManifest.xml:17:5-43
-MERGED from [com.google.android.gms:play-services-tasks:10.2.0] C:\Users\slumb\Desktop\TourismMalaysia\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-tasks\10.2.0\AndroidManifest.xml:3:5-43
-MERGED from [com.google.android.gms:play-services-clearcut:10.2.0] C:\Users\slumb\Desktop\TourismMalaysia\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-clearcut\10.2.0\AndroidManifest.xml:17:5-43
-MERGED from [com.google.android.gms:play-services-gass:10.2.0] C:\Users\slumb\Desktop\TourismMalaysia\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-gass\10.2.0\AndroidManifest.xml:3:5-43
-MERGED from [com.google.android.gms:play-services-analytics:10.2.0] C:\Users\slumb\Desktop\TourismMalaysia\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-analytics\10.2.0\AndroidManifest.xml:17:5-43
-MERGED from [com.google.android.gms:play-services-analytics-impl:10.2.0] C:\Users\slumb\Desktop\TourismMalaysia\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-analytics-impl\10.2.0\AndroidManifest.xml:17:5-43
-MERGED from [com.google.android.gms:play-services-tagmanager-v4-impl:10.2.0] C:\Users\slumb\Desktop\TourismMalaysia\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-tagmanager-v4-impl\10.2.0\AndroidManifest.xml:17:5-43
-MERGED from [com.google.android.gms:play-services-appinvite:10.2.0] C:\Users\slumb\Desktop\TourismMalaysia\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-appinvite\10.2.0\AndroidManifest.xml:17:5-43
-MERGED from [com.google.android.gms:play-services-auth:10.2.0] C:\Users\slumb\Desktop\TourismMalaysia\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-auth\10.2.0\AndroidManifest.xml:17:5-43
-MERGED from [com.google.android.gms:play-services-auth-base:10.2.0] C:\Users\slumb\Desktop\TourismMalaysia\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-auth-base\10.2.0\AndroidManifest.xml:4:5-43
-MERGED from [com.google.android.gms:play-services-cast-framework:10.2.0] C:\Users\slumb\Desktop\TourismMalaysia\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-cast-framework\10.2.0\AndroidManifest.xml:3:5-43
-MERGED from [com.google.android.gms:play-services-cast:10.2.0] C:\Users\slumb\Desktop\TourismMalaysia\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-cast\10.2.0\AndroidManifest.xml:17:5-43
-MERGED from [com.android.support:mediarouter-v7:24.0.0] C:\Users\slumb\Desktop\TourismMalaysia\app\build\intermediates\exploded-aar\com.android.support\mediarouter-v7\24.0.0\AndroidManifest.xml:20:5-43
-MERGED from [com.android.support:palette-v7:24.0.0] C:\Users\slumb\Desktop\TourismMalaysia\app\build\intermediates\exploded-aar\com.android.support\palette-v7\24.0.0\AndroidManifest.xml:20:5-43
-MERGED from [com.android.support:appcompat-v7:24.0.0] C:\Users\slumb\Desktop\TourismMalaysia\app\build\intermediates\exploded-aar\com.android.support\appcompat-v7\24.0.0\AndroidManifest.xml:21:5-23:78
-MERGED from [com.android.support:support-vector-drawable:24.0.0] C:\Users\slumb\Desktop\TourismMalaysia\app\build\intermediates\exploded-aar\com.android.support\support-vector-drawable\24.0.0\AndroidManifest.xml:21:5-43
-MERGED from [com.android.support:animated-vector-drawable:24.0.0] C:\Users\slumb\Desktop\TourismMalaysia\app\build\intermediates\exploded-aar\com.android.support\animated-vector-drawable\24.0.0\AndroidManifest.xml:20:5-44
-MERGED from [com.google.firebase:firebase-config:10.2.0] C:\Users\slumb\Desktop\TourismMalaysia\app\build\intermediates\exploded-aar\com.google.firebase\firebase-config\10.2.0\AndroidManifest.xml:17:5-43
-MERGED from [com.google.firebase:firebase-iid:10.2.0] C:\Users\slumb\Desktop\TourismMalaysia\app\build\intermediates\exploded-aar\com.google.firebase\firebase-iid\10.2.0\AndroidManifest.xml:17:5-43
-MERGED from [com.google.firebase:firebase-common:10.2.0] C:\Users\slumb\Desktop\TourismMalaysia\app\build\intermediates\exploded-aar\com.google.firebase\firebase-common\10.2.0\AndroidManifest.xml:3:5-43
-MERGED from [com.google.android.gms:play-services-awareness:10.2.0] C:\Users\slumb\Desktop\TourismMalaysia\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-awareness\10.2.0\AndroidManifest.xml:17:5-43
-MERGED from [com.google.android.gms:play-services-location:10.2.0] C:\Users\slumb\Desktop\TourismMalaysia\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-location\10.2.0\AndroidManifest.xml:3:5-43
-MERGED from [com.google.android.gms:play-services-places:10.2.0] C:\Users\slumb\Desktop\TourismMalaysia\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-places\10.2.0\AndroidManifest.xml:17:5-43
-MERGED from [com.google.android.gms:play-services-maps:10.2.0] C:\Users\slumb\Desktop\TourismMalaysia\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-maps\10.2.0\AndroidManifest.xml:23:5-43
-MERGED from [com.google.firebase:firebase-crash:10.2.0] C:\Users\slumb\Desktop\TourismMalaysia\app\build\intermediates\exploded-aar\com.google.firebase\firebase-crash\10.2.0\AndroidManifest.xml:20:5-43
-MERGED from [com.google.firebase:firebase-analytics:10.2.0] C:\Users\slumb\Desktop\TourismMalaysia\app\build\intermediates\exploded-aar\com.google.firebase\firebase-analytics\10.2.0\AndroidManifest.xml:17:5-43
-MERGED from [com.google.firebase:firebase-analytics-impl:10.2.0] C:\Users\slumb\Desktop\TourismMalaysia\app\build\intermediates\exploded-aar\com.google.firebase\firebase-analytics-impl\10.2.0\AndroidManifest.xml:17:5-43
-MERGED from [com.google.android.gms:play-services-drive:10.2.0] C:\Users\slumb\Desktop\TourismMalaysia\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-drive\10.2.0\AndroidManifest.xml:17:5-43
-MERGED from [com.google.firebase:firebase-auth:10.2.0] C:\Users\slumb\Desktop\TourismMalaysia\app\build\intermediates\exploded-aar\com.google.firebase\firebase-auth\10.2.0\AndroidManifest.xml:17:5-43
-MERGED from [com.google.firebase:firebase-database-connection:10.2.0] C:\Users\slumb\Desktop\TourismMalaysia\app\build\intermediates\exploded-aar\com.google.firebase\firebase-database-connection\10.2.0\AndroidManifest.xml:3:5-43
-MERGED from [com.google.firebase:firebase-database:10.2.0] C:\Users\slumb\Desktop\TourismMalaysia\app\build\intermediates\exploded-aar\com.google.firebase\firebase-database\10.2.0\AndroidManifest.xml:3:5-43
-MERGED from [com.google.firebase:firebase-messaging:10.2.0] C:\Users\slumb\Desktop\TourismMalaysia\app\build\intermediates\exploded-aar\com.google.firebase\firebase-messaging\10.2.0\AndroidManifest.xml:17:5-43
-MERGED from [com.google.firebase:firebase-storage:10.2.0] C:\Users\slumb\Desktop\TourismMalaysia\app\build\intermediates\exploded-aar\com.google.firebase\firebase-storage\10.2.0\AndroidManifest.xml:3:5-43
-MERGED from [com.google.firebase:firebase-storage-common:10.2.0] C:\Users\slumb\Desktop\TourismMalaysia\app\build\intermediates\exploded-aar\com.google.firebase\firebase-storage-common\10.2.0\AndroidManifest.xml:3:5-43
-MERGED from [com.google.android.gms:play-services-fitness:10.2.0] C:\Users\slumb\Desktop\TourismMalaysia\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-fitness\10.2.0\AndroidManifest.xml:17:5-43
-MERGED from [com.google.android.gms:play-services-games:10.2.0] C:\Users\slumb\Desktop\TourismMalaysia\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-games\10.2.0\AndroidManifest.xml:17:5-43
-MERGED from [com.google.android.gms:play-services-gcm:10.2.0] C:\Users\slumb\Desktop\TourismMalaysia\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-gcm\10.2.0\AndroidManifest.xml:17:5-43
-MERGED from [com.google.android.gms:play-services-iid:10.2.0] C:\Users\slumb\Desktop\TourismMalaysia\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-iid\10.2.0\AndroidManifest.xml:17:5-43
-MERGED from [com.google.firebase:firebase-appindexing:10.2.0] C:\Users\slumb\Desktop\TourismMalaysia\app\build\intermediates\exploded-aar\com.google.firebase\firebase-appindexing\10.2.0\AndroidManifest.xml:17:5-43
-MERGED from [com.google.android.gms:play-services-identity:10.2.0] C:\Users\slumb\Desktop\TourismMalaysia\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-identity\10.2.0\AndroidManifest.xml:17:5-43
-MERGED from [com.google.android.gms:play-services-instantapps:10.2.0] C:\Users\slumb\Desktop\TourismMalaysia\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-instantapps\10.2.0\AndroidManifest.xml:3:5-43
-MERGED from [com.google.android.gms:play-services-nearby:10.2.0] C:\Users\slumb\Desktop\TourismMalaysia\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-nearby\10.2.0\AndroidManifest.xml:3:5-43
-MERGED from [com.google.android.gms:play-services-panorama:10.2.0] C:\Users\slumb\Desktop\TourismMalaysia\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-panorama\10.2.0\AndroidManifest.xml:17:5-43
-MERGED from [com.google.android.gms:play-services-plus:10.2.0] C:\Users\slumb\Desktop\TourismMalaysia\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-plus\10.2.0\AndroidManifest.xml:17:5-43
-MERGED from [com.google.android.gms:play-services-safetynet:10.2.0] C:\Users\slumb\Desktop\TourismMalaysia\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-safetynet\10.2.0\AndroidManifest.xml:17:5-43
-MERGED from [com.google.android.gms:play-services-tagmanager-api:10.2.0] C:\Users\slumb\Desktop\TourismMalaysia\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-tagmanager-api\10.2.0\AndroidManifest.xml:17:5-43
-MERGED from [com.google.android.gms:play-services-tagmanager:10.2.0] C:\Users\slumb\Desktop\TourismMalaysia\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-tagmanager\10.2.0\AndroidManifest.xml:17:5-43
-MERGED from [com.google.android.gms:play-services-vision:10.2.0] C:\Users\slumb\Desktop\TourismMalaysia\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-vision\10.2.0\AndroidManifest.xml:3:5-43
-MERGED from [com.google.android.gms:play-services-wallet:10.2.0] C:\Users\slumb\Desktop\TourismMalaysia\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-wallet\10.2.0\AndroidManifest.xml:18:5-43
-MERGED from [com.google.android.gms:play-services-wearable:10.2.0] C:\Users\slumb\Desktop\TourismMalaysia\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-wearable\10.2.0\AndroidManifest.xml:17:5-43
+ADDED from C:\Users\Chimok\AndroidStudioProjects\TourismMalaysia\app\src\main\AndroidManifest.xml:7:5-9:41
+INJECTED from C:\Users\Chimok\AndroidStudioProjects\TourismMalaysia\app\src\main\AndroidManifest.xml:7:5-9:41
+INJECTED from C:\Users\Chimok\AndroidStudioProjects\TourismMalaysia\app\src\main\AndroidManifest.xml:7:5-9:41
+MERGED from [com.google.android.gms:play-services-maps:15.0.1] C:\Users\Chimok\.gradle\caches\transforms-1\files-1.1\play-services-maps-15.0.1.aar\75a1b404b9eaa429d07a3571e6da7155\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-maps:15.0.1] C:\Users\Chimok\.gradle\caches\transforms-1\files-1.1\play-services-maps-15.0.1.aar\75a1b404b9eaa429d07a3571e6da7155\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-base:15.0.1] C:\Users\Chimok\.gradle\caches\transforms-1\files-1.1\play-services-base-15.0.1.aar\5c14291f05b187a0aa030c3d7cc8a236\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-base:15.0.1] C:\Users\Chimok\.gradle\caches\transforms-1\files-1.1\play-services-base-15.0.1.aar\5c14291f05b187a0aa030c3d7cc8a236\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-tasks:15.0.1] C:\Users\Chimok\.gradle\caches\transforms-1\files-1.1\play-services-tasks-15.0.1.aar\8977548e8fd10a6b8944c603ea3ff420\AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-tasks:15.0.1] C:\Users\Chimok\.gradle\caches\transforms-1\files-1.1\play-services-tasks-15.0.1.aar\8977548e8fd10a6b8944c603ea3ff420\AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-basement:15.0.1] C:\Users\Chimok\.gradle\caches\transforms-1\files-1.1\play-services-basement-15.0.1.aar\072170c4612a2fc8a84db290e8fd4e95\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-basement:15.0.1] C:\Users\Chimok\.gradle\caches\transforms-1\files-1.1\play-services-basement-15.0.1.aar\072170c4612a2fc8a84db290e8fd4e95\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-v4:26.1.0] C:\Users\Chimok\.gradle\caches\transforms-1\files-1.1\support-v4-26.1.0.aar\ee2131714645f29aa5ba311cab1d9446\AndroidManifest.xml:21:5-23:54
+MERGED from [com.android.support:support-v4:26.1.0] C:\Users\Chimok\.gradle\caches\transforms-1\files-1.1\support-v4-26.1.0.aar\ee2131714645f29aa5ba311cab1d9446\AndroidManifest.xml:21:5-23:54
+MERGED from [com.android.support:support-media-compat:26.1.0] C:\Users\Chimok\.gradle\caches\transforms-1\files-1.1\support-media-compat-26.1.0.aar\3cc74c322021f0dfab158a0d827e7fc8\AndroidManifest.xml:21:5-23:63
+MERGED from [com.android.support:support-media-compat:26.1.0] C:\Users\Chimok\.gradle\caches\transforms-1\files-1.1\support-media-compat-26.1.0.aar\3cc74c322021f0dfab158a0d827e7fc8\AndroidManifest.xml:21:5-23:63
+MERGED from [com.android.support:support-fragment:26.1.0] C:\Users\Chimok\.gradle\caches\transforms-1\files-1.1\support-fragment-26.1.0.aar\e3db7effc204848c297adcfbb71e56b3\AndroidManifest.xml:21:5-23:60
+MERGED from [com.android.support:support-fragment:26.1.0] C:\Users\Chimok\.gradle\caches\transforms-1\files-1.1\support-fragment-26.1.0.aar\e3db7effc204848c297adcfbb71e56b3\AndroidManifest.xml:21:5-23:60
+MERGED from [com.android.support:support-core-utils:26.1.0] C:\Users\Chimok\.gradle\caches\transforms-1\files-1.1\support-core-utils-26.1.0.aar\35ac33d29dfa0fef876840ca002ea1fa\AndroidManifest.xml:21:5-23:61
+MERGED from [com.android.support:support-core-utils:26.1.0] C:\Users\Chimok\.gradle\caches\transforms-1\files-1.1\support-core-utils-26.1.0.aar\35ac33d29dfa0fef876840ca002ea1fa\AndroidManifest.xml:21:5-23:61
+MERGED from [com.android.support:support-core-ui:26.1.0] C:\Users\Chimok\.gradle\caches\transforms-1\files-1.1\support-core-ui-26.1.0.aar\1f6177d9549dd4a25fe4361f18d1d5c5\AndroidManifest.xml:21:5-23:58
+MERGED from [com.android.support:support-core-ui:26.1.0] C:\Users\Chimok\.gradle\caches\transforms-1\files-1.1\support-core-ui-26.1.0.aar\1f6177d9549dd4a25fe4361f18d1d5c5\AndroidManifest.xml:21:5-23:58
+MERGED from [com.android.support:support-compat:26.1.0] C:\Users\Chimok\.gradle\caches\transforms-1\files-1.1\support-compat-26.1.0.aar\7608335ccef3d0ec1483345e035fc274\AndroidManifest.xml:21:5-23:58
+MERGED from [com.android.support:support-compat:26.1.0] C:\Users\Chimok\.gradle\caches\transforms-1\files-1.1\support-compat-26.1.0.aar\7608335ccef3d0ec1483345e035fc274\AndroidManifest.xml:21:5-23:58
+MERGED from [android.arch.lifecycle:runtime:1.0.0] C:\Users\Chimok\.gradle\caches\transforms-1\files-1.1\runtime-1.0.0.aar\f63e5dabfa5c1084dd6360639c7778f8\AndroidManifest.xml:20:5-22:41
+MERGED from [android.arch.lifecycle:runtime:1.0.0] C:\Users\Chimok\.gradle\caches\transforms-1\files-1.1\runtime-1.0.0.aar\f63e5dabfa5c1084dd6360639c7778f8\AndroidManifest.xml:20:5-22:41
+INJECTED from C:\Users\Chimok\AndroidStudioProjects\TourismMalaysia\app\src\main\AndroidManifest.xml:7:5-9:41
+INJECTED from C:\Users\Chimok\AndroidStudioProjects\TourismMalaysia\app\src\main\AndroidManifest.xml:7:5-9:41
 	tools:overrideLibrary
-		ADDED from [com.android.support:support-v4:24.0.0] C:\Users\slumb\Desktop\TourismMalaysia\app\build\intermediates\exploded-aar\com.android.support\support-v4\24.0.0\AndroidManifest.xml:23:9-51
+		ADDED from [com.android.support:support-v4:26.1.0] C:\Users\Chimok\.gradle\caches\transforms-1\files-1.1\support-v4-26.1.0.aar\ee2131714645f29aa5ba311cab1d9446\AndroidManifest.xml:23:9-51
 	android:targetSdkVersion
-		ADDED from C:\Users\slumb\Desktop\TourismMalaysia\app\src\main\AndroidManifest.xml:9:9-38
-		INJECTED from C:\Users\slumb\Desktop\TourismMalaysia\app\src\main\AndroidManifest.xml
-		INJECTED from C:\Users\slumb\Desktop\TourismMalaysia\app\src\main\AndroidManifest.xml
+		ADDED from C:\Users\Chimok\AndroidStudioProjects\TourismMalaysia\app\src\main\AndroidManifest.xml:9:9-38
+		INJECTED from C:\Users\Chimok\AndroidStudioProjects\TourismMalaysia\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\Chimok\AndroidStudioProjects\TourismMalaysia\app\src\main\AndroidManifest.xml
 	android:minSdkVersion
-		ADDED from C:\Users\slumb\Desktop\TourismMalaysia\app\src\main\AndroidManifest.xml:8:9-35
-		INJECTED from C:\Users\slumb\Desktop\TourismMalaysia\app\src\main\AndroidManifest.xml
-		INJECTED from C:\Users\slumb\Desktop\TourismMalaysia\app\src\main\AndroidManifest.xml
+		ADDED from C:\Users\Chimok\AndroidStudioProjects\TourismMalaysia\app\src\main\AndroidManifest.xml:8:9-35
+		INJECTED from C:\Users\Chimok\AndroidStudioProjects\TourismMalaysia\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\Chimok\AndroidStudioProjects\TourismMalaysia\app\src\main\AndroidManifest.xml
 permission#com.slumberjer.tourism.permission.MAPS_RECEIVE
-ADDED from C:\Users\slumb\Desktop\TourismMalaysia\app\src\main\AndroidManifest.xml:11:6-14:18
+ADDED from C:\Users\Chimok\AndroidStudioProjects\TourismMalaysia\app\src\main\AndroidManifest.xml:11:6-14:18
 	android:protectionLevel
-		ADDED from C:\Users\slumb\Desktop\TourismMalaysia\app\src\main\AndroidManifest.xml:13:9-44
+		ADDED from C:\Users\Chimok\AndroidStudioProjects\TourismMalaysia\app\src\main\AndroidManifest.xml:13:9-44
 	android:name
-		ADDED from C:\Users\slumb\Desktop\TourismMalaysia\app\src\main\AndroidManifest.xml:12:9-70
+		ADDED from C:\Users\Chimok\AndroidStudioProjects\TourismMalaysia\app\src\main\AndroidManifest.xml:12:9-70
 uses-permission#com.slumberjer.tourism.permission.MAPS_RECEIVE
-ADDED from C:\Users\slumb\Desktop\TourismMalaysia\app\src\main\AndroidManifest.xml:15:5-85
+ADDED from C:\Users\Chimok\AndroidStudioProjects\TourismMalaysia\app\src\main\AndroidManifest.xml:15:5-85
 	android:name
-		ADDED from C:\Users\slumb\Desktop\TourismMalaysia\app\src\main\AndroidManifest.xml:15:22-83
+		ADDED from C:\Users\Chimok\AndroidStudioProjects\TourismMalaysia\app\src\main\AndroidManifest.xml:15:22-83
 uses-permission#android.permission.INTERNET
-ADDED from C:\Users\slumb\Desktop\TourismMalaysia\app\src\main\AndroidManifest.xml:16:5-66
-MERGED from [com.google.android.gms:play-services-ads-lite:10.2.0] C:\Users\slumb\Desktop\TourismMalaysia\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-ads-lite\10.2.0\AndroidManifest.xml:19:5-66
-MERGED from [com.google.android.gms:play-services-analytics:10.2.0] C:\Users\slumb\Desktop\TourismMalaysia\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-analytics\10.2.0\AndroidManifest.xml:20:5-66
-MERGED from [com.google.android.gms:play-services-analytics-impl:10.2.0] C:\Users\slumb\Desktop\TourismMalaysia\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-analytics-impl\10.2.0\AndroidManifest.xml:20:5-66
-MERGED from [com.google.android.gms:play-services-appinvite:10.2.0] C:\Users\slumb\Desktop\TourismMalaysia\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-appinvite\10.2.0\AndroidManifest.xml:18:5-66
-MERGED from [com.google.firebase:firebase-iid:10.2.0] C:\Users\slumb\Desktop\TourismMalaysia\app\build\intermediates\exploded-aar\com.google.firebase\firebase-iid\10.2.0\AndroidManifest.xml:20:5-66
-MERGED from [com.google.android.gms:play-services-maps:10.2.0] C:\Users\slumb\Desktop\TourismMalaysia\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-maps\10.2.0\AndroidManifest.xml:20:5-66
-MERGED from [com.google.firebase:firebase-crash:10.2.0] C:\Users\slumb\Desktop\TourismMalaysia\app\build\intermediates\exploded-aar\com.google.firebase\firebase-crash\10.2.0\AndroidManifest.xml:18:5-66
-MERGED from [com.google.firebase:firebase-analytics:10.2.0] C:\Users\slumb\Desktop\TourismMalaysia\app\build\intermediates\exploded-aar\com.google.firebase\firebase-analytics\10.2.0\AndroidManifest.xml:20:5-66
-MERGED from [com.google.firebase:firebase-analytics-impl:10.2.0] C:\Users\slumb\Desktop\TourismMalaysia\app\build\intermediates\exploded-aar\com.google.firebase\firebase-analytics-impl\10.2.0\AndroidManifest.xml:20:5-66
-MERGED from [com.google.android.gms:play-services-gcm:10.2.0] C:\Users\slumb\Desktop\TourismMalaysia\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-gcm\10.2.0\AndroidManifest.xml:21:5-66
-MERGED from [com.google.android.gms:play-services-iid:10.2.0] C:\Users\slumb\Desktop\TourismMalaysia\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-iid\10.2.0\AndroidManifest.xml:21:5-66
-MERGED from [com.google.android.gms:play-services-tagmanager-api:10.2.0] C:\Users\slumb\Desktop\TourismMalaysia\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-tagmanager-api\10.2.0\AndroidManifest.xml:20:5-66
+ADDED from C:\Users\Chimok\AndroidStudioProjects\TourismMalaysia\app\src\main\AndroidManifest.xml:16:5-66
+MERGED from [com.google.android.gms:play-services-maps:15.0.1] C:\Users\Chimok\.gradle\caches\transforms-1\files-1.1\play-services-maps-15.0.1.aar\75a1b404b9eaa429d07a3571e6da7155\AndroidManifest.xml:24:5-67
+MERGED from [com.google.android.gms:play-services-maps:15.0.1] C:\Users\Chimok\.gradle\caches\transforms-1\files-1.1\play-services-maps-15.0.1.aar\75a1b404b9eaa429d07a3571e6da7155\AndroidManifest.xml:24:5-67
 	android:name
-		ADDED from C:\Users\slumb\Desktop\TourismMalaysia\app\src\main\AndroidManifest.xml:16:22-64
+		ADDED from C:\Users\Chimok\AndroidStudioProjects\TourismMalaysia\app\src\main\AndroidManifest.xml:16:22-64
 uses-permission#android.permission.ACCESS_NETWORK_STATE
-ADDED from C:\Users\slumb\Desktop\TourismMalaysia\app\src\main\AndroidManifest.xml:17:5-78
-MERGED from [com.google.android.gms:play-services-ads-lite:10.2.0] C:\Users\slumb\Desktop\TourismMalaysia\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-ads-lite\10.2.0\AndroidManifest.xml:20:5-78
-MERGED from [com.google.android.gms:play-services-analytics:10.2.0] C:\Users\slumb\Desktop\TourismMalaysia\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-analytics\10.2.0\AndroidManifest.xml:21:5-78
-MERGED from [com.google.android.gms:play-services-analytics-impl:10.2.0] C:\Users\slumb\Desktop\TourismMalaysia\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-analytics-impl\10.2.0\AndroidManifest.xml:21:5-78
-MERGED from [com.google.firebase:firebase-iid:10.2.0] C:\Users\slumb\Desktop\TourismMalaysia\app\build\intermediates\exploded-aar\com.google.firebase\firebase-iid\10.2.0\AndroidManifest.xml:19:5-78
-MERGED from [com.google.android.gms:play-services-maps:10.2.0] C:\Users\slumb\Desktop\TourismMalaysia\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-maps\10.2.0\AndroidManifest.xml:19:5-78
-MERGED from [com.google.firebase:firebase-analytics:10.2.0] C:\Users\slumb\Desktop\TourismMalaysia\app\build\intermediates\exploded-aar\com.google.firebase\firebase-analytics\10.2.0\AndroidManifest.xml:21:5-78
-MERGED from [com.google.firebase:firebase-analytics-impl:10.2.0] C:\Users\slumb\Desktop\TourismMalaysia\app\build\intermediates\exploded-aar\com.google.firebase\firebase-analytics-impl\10.2.0\AndroidManifest.xml:21:5-78
-MERGED from [com.google.android.gms:play-services-nearby:10.2.0] C:\Users\slumb\Desktop\TourismMalaysia\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-nearby\10.2.0\AndroidManifest.xml:4:5-78
-MERGED from [com.google.android.gms:play-services-tagmanager-api:10.2.0] C:\Users\slumb\Desktop\TourismMalaysia\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-tagmanager-api\10.2.0\AndroidManifest.xml:21:5-78
+ADDED from C:\Users\Chimok\AndroidStudioProjects\TourismMalaysia\app\src\main\AndroidManifest.xml:17:5-78
+MERGED from [com.google.android.gms:play-services-maps:15.0.1] C:\Users\Chimok\.gradle\caches\transforms-1\files-1.1\play-services-maps-15.0.1.aar\75a1b404b9eaa429d07a3571e6da7155\AndroidManifest.xml:23:5-79
+MERGED from [com.google.android.gms:play-services-maps:15.0.1] C:\Users\Chimok\.gradle\caches\transforms-1\files-1.1\play-services-maps-15.0.1.aar\75a1b404b9eaa429d07a3571e6da7155\AndroidManifest.xml:23:5-79
 	android:name
-		ADDED from C:\Users\slumb\Desktop\TourismMalaysia\app\src\main\AndroidManifest.xml:17:22-76
+		ADDED from C:\Users\Chimok\AndroidStudioProjects\TourismMalaysia\app\src\main\AndroidManifest.xml:17:22-76
 uses-permission#com.google.android.providers.gsf.permission.READ_GSERVICES
-ADDED from C:\Users\slumb\Desktop\TourismMalaysia\app\src\main\AndroidManifest.xml:18:2-94
+ADDED from C:\Users\Chimok\AndroidStudioProjects\TourismMalaysia\app\src\main\AndroidManifest.xml:18:2-94
 	android:name
-		ADDED from C:\Users\slumb\Desktop\TourismMalaysia\app\src\main\AndroidManifest.xml:18:19-92
+		ADDED from C:\Users\Chimok\AndroidStudioProjects\TourismMalaysia\app\src\main\AndroidManifest.xml:18:19-92
 uses-permission#android.permission.ACCESS_COARSE_LOCATION
-ADDED from C:\Users\slumb\Desktop\TourismMalaysia\app\src\main\AndroidManifest.xml:19:2-77
+ADDED from C:\Users\Chimok\AndroidStudioProjects\TourismMalaysia\app\src\main\AndroidManifest.xml:19:2-77
 	android:name
-		ADDED from C:\Users\slumb\Desktop\TourismMalaysia\app\src\main\AndroidManifest.xml:19:19-75
+		ADDED from C:\Users\Chimok\AndroidStudioProjects\TourismMalaysia\app\src\main\AndroidManifest.xml:19:19-75
 uses-permission#android.permission.WRITE_EXTERNAL_STORAGE
-ADDED from C:\Users\slumb\Desktop\TourismMalaysia\app\src\main\AndroidManifest.xml:20:2-77
+ADDED from C:\Users\Chimok\AndroidStudioProjects\TourismMalaysia\app\src\main\AndroidManifest.xml:20:2-77
 	android:name
-		ADDED from C:\Users\slumb\Desktop\TourismMalaysia\app\src\main\AndroidManifest.xml:20:19-75
+		ADDED from C:\Users\Chimok\AndroidStudioProjects\TourismMalaysia\app\src\main\AndroidManifest.xml:20:19-75
 uses-permission#android.permission.ACCESS_FINE_LOCATION
-ADDED from C:\Users\slumb\Desktop\TourismMalaysia\app\src\main\AndroidManifest.xml:21:2-75
+ADDED from C:\Users\Chimok\AndroidStudioProjects\TourismMalaysia\app\src\main\AndroidManifest.xml:21:2-75
 	android:name
-		ADDED from C:\Users\slumb\Desktop\TourismMalaysia\app\src\main\AndroidManifest.xml:21:19-73
+		ADDED from C:\Users\Chimok\AndroidStudioProjects\TourismMalaysia\app\src\main\AndroidManifest.xml:21:19-73
 uses-feature#0x00020000
-ADDED from C:\Users\slumb\Desktop\TourismMalaysia\app\src\main\AndroidManifest.xml:23:5-25:35
-MERGED from [com.google.android.gms:play-services-maps:10.2.0] C:\Users\slumb\Desktop\TourismMalaysia\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-maps\10.2.0\AndroidManifest.xml:21:5-77
+ADDED from C:\Users\Chimok\AndroidStudioProjects\TourismMalaysia\app\src\main\AndroidManifest.xml:23:5-25:35
+MERGED from [com.google.android.gms:play-services-maps:15.0.1] C:\Users\Chimok\.gradle\caches\transforms-1\files-1.1\play-services-maps-15.0.1.aar\75a1b404b9eaa429d07a3571e6da7155\AndroidManifest.xml:26:5-28:35
+MERGED from [com.google.android.gms:play-services-maps:15.0.1] C:\Users\Chimok\.gradle\caches\transforms-1\files-1.1\play-services-maps-15.0.1.aar\75a1b404b9eaa429d07a3571e6da7155\AndroidManifest.xml:26:5-28:35
 	android:glEsVersion
-		ADDED from C:\Users\slumb\Desktop\TourismMalaysia\app\src\main\AndroidManifest.xml:24:9-41
+		ADDED from C:\Users\Chimok\AndroidStudioProjects\TourismMalaysia\app\src\main\AndroidManifest.xml:24:9-41
 	android:required
-		ADDED from C:\Users\slumb\Desktop\TourismMalaysia\app\src\main\AndroidManifest.xml:25:9-32
+		ADDED from C:\Users\Chimok\AndroidStudioProjects\TourismMalaysia\app\src\main\AndroidManifest.xml:25:9-32
 application
-ADDED from C:\Users\slumb\Desktop\TourismMalaysia\app\src\main\AndroidManifest.xml:27:5-48:19
-MERGED from [com.google.android.gms:play-services:10.2.0] C:\Users\slumb\Desktop\TourismMalaysia\app\build\intermediates\exploded-aar\com.google.android.gms\play-services\10.2.0\AndroidManifest.xml:5:5-20
-MERGED from [com.google.android.gms:play-services-ads-lite:10.2.0] C:\Users\slumb\Desktop\TourismMalaysia\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-ads-lite\10.2.0\AndroidManifest.xml:23:5-27:19
-MERGED from [com.google.android.gms:play-services-basement:10.2.0] C:\Users\slumb\Desktop\TourismMalaysia\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-basement\10.2.0\AndroidManifest.xml:19:5-21:19
-MERGED from [com.android.support:support-v4:24.0.0] C:\Users\slumb\Desktop\TourismMalaysia\app\build\intermediates\exploded-aar\com.android.support\support-v4\24.0.0\AndroidManifest.xml:25:5-20
-MERGED from [com.google.android.gms:play-services-base:10.2.0] C:\Users\slumb\Desktop\TourismMalaysia\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-base\10.2.0\AndroidManifest.xml:18:5-20:19
-MERGED from [com.google.android.gms:play-services-tasks:10.2.0] C:\Users\slumb\Desktop\TourismMalaysia\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-tasks\10.2.0\AndroidManifest.xml:4:5-19
-MERGED from [com.google.android.gms:play-services-clearcut:10.2.0] C:\Users\slumb\Desktop\TourismMalaysia\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-clearcut\10.2.0\AndroidManifest.xml:18:5-19
-MERGED from [com.google.android.gms:play-services-gass:10.2.0] C:\Users\slumb\Desktop\TourismMalaysia\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-gass\10.2.0\AndroidManifest.xml:4:5-19
-MERGED from [com.google.android.gms:play-services-analytics:10.2.0] C:\Users\slumb\Desktop\TourismMalaysia\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-analytics\10.2.0\AndroidManifest.xml:26:5-19
-MERGED from [com.google.android.gms:play-services-analytics-impl:10.2.0] C:\Users\slumb\Desktop\TourismMalaysia\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-analytics-impl\10.2.0\AndroidManifest.xml:26:5-19
-MERGED from [com.google.android.gms:play-services-tagmanager-v4-impl:10.2.0] C:\Users\slumb\Desktop\TourismMalaysia\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-tagmanager-v4-impl\10.2.0\AndroidManifest.xml:19:5-19
-MERGED from [com.google.android.gms:play-services-appinvite:10.2.0] C:\Users\slumb\Desktop\TourismMalaysia\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-appinvite\10.2.0\AndroidManifest.xml:19:5-26:19
-MERGED from [com.google.android.gms:play-services-auth:10.2.0] C:\Users\slumb\Desktop\TourismMalaysia\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-auth\10.2.0\AndroidManifest.xml:19:5-25:19
-MERGED from [com.google.android.gms:play-services-cast-framework:10.2.0] C:\Users\slumb\Desktop\TourismMalaysia\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-cast-framework\10.2.0\AndroidManifest.xml:4:5-8:19
-MERGED from [com.google.android.gms:play-services-cast:10.2.0] C:\Users\slumb\Desktop\TourismMalaysia\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-cast\10.2.0\AndroidManifest.xml:18:5-19
-MERGED from [com.android.support:mediarouter-v7:24.0.0] C:\Users\slumb\Desktop\TourismMalaysia\app\build\intermediates\exploded-aar\com.android.support\mediarouter-v7\24.0.0\AndroidManifest.xml:22:5-20
-MERGED from [com.android.support:palette-v7:24.0.0] C:\Users\slumb\Desktop\TourismMalaysia\app\build\intermediates\exploded-aar\com.android.support\palette-v7\24.0.0\AndroidManifest.xml:22:5-23:19
-MERGED from [com.android.support:appcompat-v7:24.0.0] C:\Users\slumb\Desktop\TourismMalaysia\app\build\intermediates\exploded-aar\com.android.support\appcompat-v7\24.0.0\AndroidManifest.xml:25:5-20
-MERGED from [com.android.support:support-vector-drawable:24.0.0] C:\Users\slumb\Desktop\TourismMalaysia\app\build\intermediates\exploded-aar\com.android.support\support-vector-drawable\24.0.0\AndroidManifest.xml:23:5-20
-MERGED from [com.android.support:animated-vector-drawable:24.0.0] C:\Users\slumb\Desktop\TourismMalaysia\app\build\intermediates\exploded-aar\com.android.support\animated-vector-drawable\24.0.0\AndroidManifest.xml:22:5-20
-MERGED from [com.google.firebase:firebase-config:10.2.0] C:\Users\slumb\Desktop\TourismMalaysia\app\build\intermediates\exploded-aar\com.google.firebase\firebase-config\10.2.0\AndroidManifest.xml:18:5-19
-MERGED from [com.google.firebase:firebase-iid:10.2.0] C:\Users\slumb\Desktop\TourismMalaysia\app\build\intermediates\exploded-aar\com.google.firebase\firebase-iid\10.2.0\AndroidManifest.xml:28:5-50:19
-MERGED from [com.google.firebase:firebase-common:10.2.0] C:\Users\slumb\Desktop\TourismMalaysia\app\build\intermediates\exploded-aar\com.google.firebase\firebase-common\10.2.0\AndroidManifest.xml:4:5-7:19
-MERGED from [com.google.android.gms:play-services-awareness:10.2.0] C:\Users\slumb\Desktop\TourismMalaysia\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-awareness\10.2.0\AndroidManifest.xml:18:5-19
-MERGED from [com.google.android.gms:play-services-location:10.2.0] C:\Users\slumb\Desktop\TourismMalaysia\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-location\10.2.0\AndroidManifest.xml:4:5-19
-MERGED from [com.google.android.gms:play-services-places:10.2.0] C:\Users\slumb\Desktop\TourismMalaysia\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-places\10.2.0\AndroidManifest.xml:18:5-19
-MERGED from [com.google.android.gms:play-services-maps:10.2.0] C:\Users\slumb\Desktop\TourismMalaysia\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-maps\10.2.0\AndroidManifest.xml:24:5-19
-MERGED from [com.google.firebase:firebase-crash:10.2.0] C:\Users\slumb\Desktop\TourismMalaysia\app\build\intermediates\exploded-aar\com.google.firebase\firebase-crash\10.2.0\AndroidManifest.xml:22:5-23:19
-MERGED from [com.google.firebase:firebase-analytics:10.2.0] C:\Users\slumb\Desktop\TourismMalaysia\app\build\intermediates\exploded-aar\com.google.firebase\firebase-analytics\10.2.0\AndroidManifest.xml:24:5-33:19
-MERGED from [com.google.firebase:firebase-analytics-impl:10.2.0] C:\Users\slumb\Desktop\TourismMalaysia\app\build\intermediates\exploded-aar\com.google.firebase\firebase-analytics-impl\10.2.0\AndroidManifest.xml:24:5-28:19
-MERGED from [com.google.android.gms:play-services-drive:10.2.0] C:\Users\slumb\Desktop\TourismMalaysia\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-drive\10.2.0\AndroidManifest.xml:18:5-19
-MERGED from [com.google.firebase:firebase-auth:10.2.0] C:\Users\slumb\Desktop\TourismMalaysia\app\build\intermediates\exploded-aar\com.google.firebase\firebase-auth\10.2.0\AndroidManifest.xml:19:5-20:19
-MERGED from [com.google.firebase:firebase-messaging:10.2.0] C:\Users\slumb\Desktop\TourismMalaysia\app\build\intermediates\exploded-aar\com.google.firebase\firebase-messaging\10.2.0\AndroidManifest.xml:19:5-29:19
-MERGED from [com.google.android.gms:play-services-fitness:10.2.0] C:\Users\slumb\Desktop\TourismMalaysia\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-fitness\10.2.0\AndroidManifest.xml:18:5-19
-MERGED from [com.google.android.gms:play-services-games:10.2.0] C:\Users\slumb\Desktop\TourismMalaysia\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-games\10.2.0\AndroidManifest.xml:18:5-19
-MERGED from [com.google.android.gms:play-services-gcm:10.2.0] C:\Users\slumb\Desktop\TourismMalaysia\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-gcm\10.2.0\AndroidManifest.xml:23:5-19
-MERGED from [com.google.android.gms:play-services-iid:10.2.0] C:\Users\slumb\Desktop\TourismMalaysia\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-iid\10.2.0\AndroidManifest.xml:23:5-19
-MERGED from [com.google.firebase:firebase-appindexing:10.2.0] C:\Users\slumb\Desktop\TourismMalaysia\app\build\intermediates\exploded-aar\com.google.firebase\firebase-appindexing\10.2.0\AndroidManifest.xml:18:5-19
-MERGED from [com.google.android.gms:play-services-identity:10.2.0] C:\Users\slumb\Desktop\TourismMalaysia\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-identity\10.2.0\AndroidManifest.xml:18:5-19
-MERGED from [com.google.android.gms:play-services-nearby:10.2.0] C:\Users\slumb\Desktop\TourismMalaysia\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-nearby\10.2.0\AndroidManifest.xml:5:5-19
-MERGED from [com.google.android.gms:play-services-panorama:10.2.0] C:\Users\slumb\Desktop\TourismMalaysia\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-panorama\10.2.0\AndroidManifest.xml:18:5-19
-MERGED from [com.google.android.gms:play-services-plus:10.2.0] C:\Users\slumb\Desktop\TourismMalaysia\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-plus\10.2.0\AndroidManifest.xml:18:5-19
-MERGED from [com.google.android.gms:play-services-safetynet:10.2.0] C:\Users\slumb\Desktop\TourismMalaysia\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-safetynet\10.2.0\AndroidManifest.xml:18:5-19
-MERGED from [com.google.android.gms:play-services-tagmanager-api:10.2.0] C:\Users\slumb\Desktop\TourismMalaysia\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-tagmanager-api\10.2.0\AndroidManifest.xml:23:5-33:19
-MERGED from [com.google.android.gms:play-services-vision:10.2.0] C:\Users\slumb\Desktop\TourismMalaysia\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-vision\10.2.0\AndroidManifest.xml:4:5-19
-MERGED from [com.google.android.gms:play-services-wearable:10.2.0] C:\Users\slumb\Desktop\TourismMalaysia\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-wearable\10.2.0\AndroidManifest.xml:18:5-19
+ADDED from C:\Users\Chimok\AndroidStudioProjects\TourismMalaysia\app\src\main\AndroidManifest.xml:27:5-58:19
+MERGED from [com.google.android.gms:play-services-maps:15.0.1] C:\Users\Chimok\.gradle\caches\transforms-1\files-1.1\play-services-maps-15.0.1.aar\75a1b404b9eaa429d07a3571e6da7155\AndroidManifest.xml:30:5-20
+MERGED from [com.google.android.gms:play-services-maps:15.0.1] C:\Users\Chimok\.gradle\caches\transforms-1\files-1.1\play-services-maps-15.0.1.aar\75a1b404b9eaa429d07a3571e6da7155\AndroidManifest.xml:30:5-20
+MERGED from [com.google.android.gms:play-services-base:15.0.1] C:\Users\Chimok\.gradle\caches\transforms-1\files-1.1\play-services-base-15.0.1.aar\5c14291f05b187a0aa030c3d7cc8a236\AndroidManifest.xml:22:5-27:19
+MERGED from [com.google.android.gms:play-services-base:15.0.1] C:\Users\Chimok\.gradle\caches\transforms-1\files-1.1\play-services-base-15.0.1.aar\5c14291f05b187a0aa030c3d7cc8a236\AndroidManifest.xml:22:5-27:19
+MERGED from [com.google.android.gms:play-services-tasks:15.0.1] C:\Users\Chimok\.gradle\caches\transforms-1\files-1.1\play-services-tasks-15.0.1.aar\8977548e8fd10a6b8944c603ea3ff420\AndroidManifest.xml:7:5-20
+MERGED from [com.google.android.gms:play-services-tasks:15.0.1] C:\Users\Chimok\.gradle\caches\transforms-1\files-1.1\play-services-tasks-15.0.1.aar\8977548e8fd10a6b8944c603ea3ff420\AndroidManifest.xml:7:5-20
+MERGED from [com.google.android.gms:play-services-basement:15.0.1] C:\Users\Chimok\.gradle\caches\transforms-1\files-1.1\play-services-basement-15.0.1.aar\072170c4612a2fc8a84db290e8fd4e95\AndroidManifest.xml:22:5-26:19
+MERGED from [com.google.android.gms:play-services-basement:15.0.1] C:\Users\Chimok\.gradle\caches\transforms-1\files-1.1\play-services-basement-15.0.1.aar\072170c4612a2fc8a84db290e8fd4e95\AndroidManifest.xml:22:5-26:19
+MERGED from [com.android.support:support-v4:26.1.0] C:\Users\Chimok\.gradle\caches\transforms-1\files-1.1\support-v4-26.1.0.aar\ee2131714645f29aa5ba311cab1d9446\AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:support-v4:26.1.0] C:\Users\Chimok\.gradle\caches\transforms-1\files-1.1\support-v4-26.1.0.aar\ee2131714645f29aa5ba311cab1d9446\AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:support-media-compat:26.1.0] C:\Users\Chimok\.gradle\caches\transforms-1\files-1.1\support-media-compat-26.1.0.aar\3cc74c322021f0dfab158a0d827e7fc8\AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:support-media-compat:26.1.0] C:\Users\Chimok\.gradle\caches\transforms-1\files-1.1\support-media-compat-26.1.0.aar\3cc74c322021f0dfab158a0d827e7fc8\AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:support-fragment:26.1.0] C:\Users\Chimok\.gradle\caches\transforms-1\files-1.1\support-fragment-26.1.0.aar\e3db7effc204848c297adcfbb71e56b3\AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:support-fragment:26.1.0] C:\Users\Chimok\.gradle\caches\transforms-1\files-1.1\support-fragment-26.1.0.aar\e3db7effc204848c297adcfbb71e56b3\AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:support-core-utils:26.1.0] C:\Users\Chimok\.gradle\caches\transforms-1\files-1.1\support-core-utils-26.1.0.aar\35ac33d29dfa0fef876840ca002ea1fa\AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:support-core-utils:26.1.0] C:\Users\Chimok\.gradle\caches\transforms-1\files-1.1\support-core-utils-26.1.0.aar\35ac33d29dfa0fef876840ca002ea1fa\AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:support-core-ui:26.1.0] C:\Users\Chimok\.gradle\caches\transforms-1\files-1.1\support-core-ui-26.1.0.aar\1f6177d9549dd4a25fe4361f18d1d5c5\AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:support-core-ui:26.1.0] C:\Users\Chimok\.gradle\caches\transforms-1\files-1.1\support-core-ui-26.1.0.aar\1f6177d9549dd4a25fe4361f18d1d5c5\AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:support-compat:26.1.0] C:\Users\Chimok\.gradle\caches\transforms-1\files-1.1\support-compat-26.1.0.aar\7608335ccef3d0ec1483345e035fc274\AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:support-compat:26.1.0] C:\Users\Chimok\.gradle\caches\transforms-1\files-1.1\support-compat-26.1.0.aar\7608335ccef3d0ec1483345e035fc274\AndroidManifest.xml:25:5-29:19
+MERGED from [android.arch.lifecycle:runtime:1.0.0] C:\Users\Chimok\.gradle\caches\transforms-1\files-1.1\runtime-1.0.0.aar\f63e5dabfa5c1084dd6360639c7778f8\AndroidManifest.xml:24:5-28:19
+MERGED from [android.arch.lifecycle:runtime:1.0.0] C:\Users\Chimok\.gradle\caches\transforms-1\files-1.1\runtime-1.0.0.aar\f63e5dabfa5c1084dd6360639c7778f8\AndroidManifest.xml:24:5-28:19
 	android:label
-		ADDED from C:\Users\slumb\Desktop\TourismMalaysia\app\src\main\AndroidManifest.xml:30:9-41
-	android:allowBackup
-		ADDED from C:\Users\slumb\Desktop\TourismMalaysia\app\src\main\AndroidManifest.xml:28:9-35
+		ADDED from C:\Users\Chimok\AndroidStudioProjects\TourismMalaysia\app\src\main\AndroidManifest.xml:30:9-41
 	android:icon
-		ADDED from C:\Users\slumb\Desktop\TourismMalaysia\app\src\main\AndroidManifest.xml:29:9-41
+		ADDED from C:\Users\Chimok\AndroidStudioProjects\TourismMalaysia\app\src\main\AndroidManifest.xml:29:9-41
+	android:allowBackup
+		ADDED from C:\Users\Chimok\AndroidStudioProjects\TourismMalaysia\app\src\main\AndroidManifest.xml:28:9-35
 	android:theme
-		ADDED from C:\Users\slumb\Desktop\TourismMalaysia\app\src\main\AndroidManifest.xml:31:9-40
-activity#com.slumberjer.tourism.MainActivity
-ADDED from C:\Users\slumb\Desktop\TourismMalaysia\app\src\main\AndroidManifest.xml:32:9-40:20
+		ADDED from C:\Users\Chimok\AndroidStudioProjects\TourismMalaysia\app\src\main\AndroidManifest.xml:31:9-40
+activity#com.slumberjer.tourism.SplashActivity
+ADDED from C:\Users\Chimok\AndroidStudioProjects\TourismMalaysia\app\src\main\AndroidManifest.xml:32:9-40:20
 	android:label
-		ADDED from C:\Users\slumb\Desktop\TourismMalaysia\app\src\main\AndroidManifest.xml:34:13-45
+		ADDED from C:\Users\Chimok\AndroidStudioProjects\TourismMalaysia\app\src\main\AndroidManifest.xml:34:13-45
 	android:name
-		ADDED from C:\Users\slumb\Desktop\TourismMalaysia\app\src\main\AndroidManifest.xml:33:13-41
-intent-filter#android.intent.action.MAIN+android.intent.category.LAUNCHER
-ADDED from C:\Users\slumb\Desktop\TourismMalaysia\app\src\main\AndroidManifest.xml:35:13-39:29
+		ADDED from C:\Users\Chimok\AndroidStudioProjects\TourismMalaysia\app\src\main\AndroidManifest.xml:33:13-43
+intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER
+ADDED from C:\Users\Chimok\AndroidStudioProjects\TourismMalaysia\app\src\main\AndroidManifest.xml:35:13-39:29
 action#android.intent.action.MAIN
-ADDED from C:\Users\slumb\Desktop\TourismMalaysia\app\src\main\AndroidManifest.xml:36:17-69
+ADDED from C:\Users\Chimok\AndroidStudioProjects\TourismMalaysia\app\src\main\AndroidManifest.xml:36:17-69
 	android:name
-		ADDED from C:\Users\slumb\Desktop\TourismMalaysia\app\src\main\AndroidManifest.xml:36:25-66
+		ADDED from C:\Users\Chimok\AndroidStudioProjects\TourismMalaysia\app\src\main\AndroidManifest.xml:36:25-66
 category#android.intent.category.LAUNCHER
-ADDED from C:\Users\slumb\Desktop\TourismMalaysia\app\src\main\AndroidManifest.xml:38:17-77
+ADDED from C:\Users\Chimok\AndroidStudioProjects\TourismMalaysia\app\src\main\AndroidManifest.xml:38:17-77
 	android:name
-		ADDED from C:\Users\slumb\Desktop\TourismMalaysia\app\src\main\AndroidManifest.xml:38:27-74
-meta-data#com.google.android.gms.version
-ADDED from C:\Users\slumb\Desktop\TourismMalaysia\app\src\main\AndroidManifest.xml:42:9-44:69
-MERGED from [com.google.android.gms:play-services-basement:10.2.0] C:\Users\slumb\Desktop\TourismMalaysia\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-basement\10.2.0\AndroidManifest.xml:20:9-121
-	android:value
-		ADDED from C:\Users\slumb\Desktop\TourismMalaysia\app\src\main\AndroidManifest.xml:44:13-66
+		ADDED from C:\Users\Chimok\AndroidStudioProjects\TourismMalaysia\app\src\main\AndroidManifest.xml:38:27-74
+activity#com.slumberjer.tourism.MainActivity
+ADDED from C:\Users\Chimok\AndroidStudioProjects\TourismMalaysia\app\src\main\AndroidManifest.xml:42:9-50:20
+	android:label
+		ADDED from C:\Users\Chimok\AndroidStudioProjects\TourismMalaysia\app\src\main\AndroidManifest.xml:44:13-45
 	android:name
-		ADDED from C:\Users\slumb\Desktop\TourismMalaysia\app\src\main\AndroidManifest.xml:43:13-58
-meta-data#com.google.android.maps.v2.API_KEY
-ADDED from C:\Users\slumb\Desktop\TourismMalaysia\app\src\main\AndroidManifest.xml:45:9-47:71
-	android:value
-		ADDED from C:\Users\slumb\Desktop\TourismMalaysia\app\src\main\AndroidManifest.xml:47:13-68
-	android:name
-		ADDED from C:\Users\slumb\Desktop\TourismMalaysia\app\src\main\AndroidManifest.xml:46:13-62
-activity#com.google.android.gms.ads.AdActivity
-ADDED from [com.google.android.gms:play-services-ads-lite:10.2.0] C:\Users\slumb\Desktop\TourismMalaysia\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-ads-lite\10.2.0\AndroidManifest.xml:25:9-232
-	android:configChanges
-		ADDED from [com.google.android.gms:play-services-ads-lite:10.2.0] C:\Users\slumb\Desktop\TourismMalaysia\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-ads-lite\10.2.0\AndroidManifest.xml:25:72-181
-	android:theme
-		ADDED from [com.google.android.gms:play-services-ads-lite:10.2.0] C:\Users\slumb\Desktop\TourismMalaysia\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-ads-lite\10.2.0\AndroidManifest.xml:25:182-230
-	android:name
-		ADDED from [com.google.android.gms:play-services-ads-lite:10.2.0] C:\Users\slumb\Desktop\TourismMalaysia\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-ads-lite\10.2.0\AndroidManifest.xml:25:19-71
-activity#com.google.android.gms.ads.purchase.InAppPurchaseActivity
-ADDED from [com.google.android.gms:play-services-ads-lite:10.2.0] C:\Users\slumb\Desktop\TourismMalaysia\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-ads-lite\10.2.0\AndroidManifest.xml:26:9-131
-	android:theme
-		ADDED from [com.google.android.gms:play-services-ads-lite:10.2.0] C:\Users\slumb\Desktop\TourismMalaysia\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-ads-lite\10.2.0\AndroidManifest.xml:26:92-129
-	android:name
-		ADDED from [com.google.android.gms:play-services-ads-lite:10.2.0] C:\Users\slumb\Desktop\TourismMalaysia\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-ads-lite\10.2.0\AndroidManifest.xml:26:19-91
-activity#com.google.android.gms.common.api.GoogleApiActivity
-ADDED from [com.google.android.gms:play-services-base:10.2.0] C:\Users\slumb\Desktop\TourismMalaysia\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-base\10.2.0\AndroidManifest.xml:19:9-172
-	android:exported
-		ADDED from [com.google.android.gms:play-services-base:10.2.0] C:\Users\slumb\Desktop\TourismMalaysia\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-base\10.2.0\AndroidManifest.xml:19:146-170
-	android:theme
-		ADDED from [com.google.android.gms:play-services-base:10.2.0] C:\Users\slumb\Desktop\TourismMalaysia\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-base\10.2.0\AndroidManifest.xml:19:86-145
-	android:name
-		ADDED from [com.google.android.gms:play-services-base:10.2.0] C:\Users\slumb\Desktop\TourismMalaysia\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-base\10.2.0\AndroidManifest.xml:19:19-85
-uses-permission#android.permission.WAKE_LOCK
-ADDED from [com.google.android.gms:play-services-analytics:10.2.0] C:\Users\slumb\Desktop\TourismMalaysia\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-analytics\10.2.0\AndroidManifest.xml:24:5-67
-MERGED from [com.google.android.gms:play-services-analytics-impl:10.2.0] C:\Users\slumb\Desktop\TourismMalaysia\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-analytics-impl\10.2.0\AndroidManifest.xml:24:5-67
-MERGED from [com.google.firebase:firebase-iid:10.2.0] C:\Users\slumb\Desktop\TourismMalaysia\app\build\intermediates\exploded-aar\com.google.firebase\firebase-iid\10.2.0\AndroidManifest.xml:21:5-67
-MERGED from [com.google.firebase:firebase-analytics:10.2.0] C:\Users\slumb\Desktop\TourismMalaysia\app\build\intermediates\exploded-aar\com.google.firebase\firebase-analytics\10.2.0\AndroidManifest.xml:22:5-67
-MERGED from [com.google.firebase:firebase-analytics-impl:10.2.0] C:\Users\slumb\Desktop\TourismMalaysia\app\build\intermediates\exploded-aar\com.google.firebase\firebase-analytics-impl\10.2.0\AndroidManifest.xml:22:5-67
-	android:name
-		ADDED from [com.google.android.gms:play-services-analytics:10.2.0] C:\Users\slumb\Desktop\TourismMalaysia\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-analytics\10.2.0\AndroidManifest.xml:24:22-65
-activity#com.google.android.gms.appinvite.PreviewActivity
-ADDED from [com.google.android.gms:play-services-appinvite:10.2.0] C:\Users\slumb\Desktop\TourismMalaysia\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-appinvite\10.2.0\AndroidManifest.xml:20:9-25:20
-	android:exported
-		ADDED from [com.google.android.gms:play-services-appinvite:10.2.0] C:\Users\slumb\Desktop\TourismMalaysia\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-appinvite\10.2.0\AndroidManifest.xml:20:51-74
-	android:theme
-		ADDED from [com.google.android.gms:play-services-appinvite:10.2.0] C:\Users\slumb\Desktop\TourismMalaysia\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-appinvite\10.2.0\AndroidManifest.xml:20:75-121
-	android:name
-		ADDED from [com.google.android.gms:play-services-appinvite:10.2.0] C:\Users\slumb\Desktop\TourismMalaysia\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-appinvite\10.2.0\AndroidManifest.xml:20:19-50
-intent-filter#android.intent.category.DEFAULT+com.google.android.gms.appinvite.ACTION_PREVIEW
-ADDED from [com.google.android.gms:play-services-appinvite:10.2.0] C:\Users\slumb\Desktop\TourismMalaysia\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-appinvite\10.2.0\AndroidManifest.xml:21:13-24:29
-action#com.google.android.gms.appinvite.ACTION_PREVIEW
-ADDED from [com.google.android.gms:play-services-appinvite:10.2.0] C:\Users\slumb\Desktop\TourismMalaysia\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-appinvite\10.2.0\AndroidManifest.xml:22:17-89
-	android:name
-		ADDED from [com.google.android.gms:play-services-appinvite:10.2.0] C:\Users\slumb\Desktop\TourismMalaysia\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-appinvite\10.2.0\AndroidManifest.xml:22:25-87
+		ADDED from C:\Users\Chimok\AndroidStudioProjects\TourismMalaysia\app\src\main\AndroidManifest.xml:43:13-41
+intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.DEFAULT
+ADDED from C:\Users\Chimok\AndroidStudioProjects\TourismMalaysia\app\src\main\AndroidManifest.xml:45:13-49:29
 category#android.intent.category.DEFAULT
-ADDED from [com.google.android.gms:play-services-appinvite:10.2.0] C:\Users\slumb\Desktop\TourismMalaysia\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-appinvite\10.2.0\AndroidManifest.xml:23:17-75
+ADDED from C:\Users\Chimok\AndroidStudioProjects\TourismMalaysia\app\src\main\AndroidManifest.xml:48:17-76
 	android:name
-		ADDED from [com.google.android.gms:play-services-appinvite:10.2.0] C:\Users\slumb\Desktop\TourismMalaysia\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-appinvite\10.2.0\AndroidManifest.xml:23:27-73
-activity#com.google.android.gms.auth.api.signin.internal.SignInHubActivity
-ADDED from [com.google.android.gms:play-services-auth:10.2.0] C:\Users\slumb\Desktop\TourismMalaysia\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-auth\10.2.0\AndroidManifest.xml:20:9-189
-	android:excludeFromRecents
-		ADDED from [com.google.android.gms:play-services-auth:10.2.0] C:\Users\slumb\Desktop\TourismMalaysia\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-auth\10.2.0\AndroidManifest.xml:20:129-162
+		ADDED from C:\Users\Chimok\AndroidStudioProjects\TourismMalaysia\app\src\main\AndroidManifest.xml:48:27-73
+meta-data#com.google.android.gms.version
+ADDED from C:\Users\Chimok\AndroidStudioProjects\TourismMalaysia\app\src\main\AndroidManifest.xml:52:9-54:69
+MERGED from [com.google.android.gms:play-services-basement:15.0.1] C:\Users\Chimok\.gradle\caches\transforms-1\files-1.1\play-services-basement-15.0.1.aar\072170c4612a2fc8a84db290e8fd4e95\AndroidManifest.xml:23:9-25:69
+MERGED from [com.google.android.gms:play-services-basement:15.0.1] C:\Users\Chimok\.gradle\caches\transforms-1\files-1.1\play-services-basement-15.0.1.aar\072170c4612a2fc8a84db290e8fd4e95\AndroidManifest.xml:23:9-25:69
+	android:value
+		ADDED from C:\Users\Chimok\AndroidStudioProjects\TourismMalaysia\app\src\main\AndroidManifest.xml:54:13-66
+	android:name
+		ADDED from C:\Users\Chimok\AndroidStudioProjects\TourismMalaysia\app\src\main\AndroidManifest.xml:53:13-58
+meta-data#com.google.android.maps.v2.API_KEY
+ADDED from C:\Users\Chimok\AndroidStudioProjects\TourismMalaysia\app\src\main\AndroidManifest.xml:55:9-57:71
+	android:value
+		ADDED from C:\Users\Chimok\AndroidStudioProjects\TourismMalaysia\app\src\main\AndroidManifest.xml:57:13-68
+	android:name
+		ADDED from C:\Users\Chimok\AndroidStudioProjects\TourismMalaysia\app\src\main\AndroidManifest.xml:56:13-62
+activity#com.google.android.gms.common.api.GoogleApiActivity
+ADDED from [com.google.android.gms:play-services-base:15.0.1] C:\Users\Chimok\.gradle\caches\transforms-1\files-1.1\play-services-base-15.0.1.aar\5c14291f05b187a0aa030c3d7cc8a236\AndroidManifest.xml:23:9-26:75
 	android:exported
-		ADDED from [com.google.android.gms:play-services-auth:10.2.0] C:\Users\slumb\Desktop\TourismMalaysia\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-auth\10.2.0\AndroidManifest.xml:20:163-187
+		ADDED from [com.google.android.gms:play-services-base:15.0.1] C:\Users\Chimok\.gradle\caches\transforms-1\files-1.1\play-services-base-15.0.1.aar\5c14291f05b187a0aa030c3d7cc8a236\AndroidManifest.xml:25:13-37
 	android:theme
-		ADDED from [com.google.android.gms:play-services-auth:10.2.0] C:\Users\slumb\Desktop\TourismMalaysia\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-auth\10.2.0\AndroidManifest.xml:20:69-128
+		ADDED from [com.google.android.gms:play-services-base:15.0.1] C:\Users\Chimok\.gradle\caches\transforms-1\files-1.1\play-services-base-15.0.1.aar\5c14291f05b187a0aa030c3d7cc8a236\AndroidManifest.xml:26:13-72
 	android:name
-		ADDED from [com.google.android.gms:play-services-auth:10.2.0] C:\Users\slumb\Desktop\TourismMalaysia\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-auth\10.2.0\AndroidManifest.xml:20:19-68
-service#com.google.android.gms.auth.api.signin.RevocationBoundService
-ADDED from [com.google.android.gms:play-services-auth:10.2.0] C:\Users\slumb\Desktop\TourismMalaysia\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-auth\10.2.0\AndroidManifest.xml:24:9-184
-	android:exported
-		ADDED from [com.google.android.gms:play-services-auth:10.2.0] C:\Users\slumb\Desktop\TourismMalaysia\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-auth\10.2.0\AndroidManifest.xml:24:64-87
-	android:permission
-		ADDED from [com.google.android.gms:play-services-auth:10.2.0] C:\Users\slumb\Desktop\TourismMalaysia\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-auth\10.2.0\AndroidManifest.xml:24:88-182
+		ADDED from [com.google.android.gms:play-services-base:15.0.1] C:\Users\Chimok\.gradle\caches\transforms-1\files-1.1\play-services-base-15.0.1.aar\5c14291f05b187a0aa030c3d7cc8a236\AndroidManifest.xml:24:13-79
+meta-data#android.support.VERSION
+ADDED from [com.android.support:support-v4:26.1.0] C:\Users\Chimok\.gradle\caches\transforms-1\files-1.1\support-v4-26.1.0.aar\ee2131714645f29aa5ba311cab1d9446\AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:support-media-compat:26.1.0] C:\Users\Chimok\.gradle\caches\transforms-1\files-1.1\support-media-compat-26.1.0.aar\3cc74c322021f0dfab158a0d827e7fc8\AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:support-media-compat:26.1.0] C:\Users\Chimok\.gradle\caches\transforms-1\files-1.1\support-media-compat-26.1.0.aar\3cc74c322021f0dfab158a0d827e7fc8\AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:support-fragment:26.1.0] C:\Users\Chimok\.gradle\caches\transforms-1\files-1.1\support-fragment-26.1.0.aar\e3db7effc204848c297adcfbb71e56b3\AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:support-fragment:26.1.0] C:\Users\Chimok\.gradle\caches\transforms-1\files-1.1\support-fragment-26.1.0.aar\e3db7effc204848c297adcfbb71e56b3\AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:support-core-utils:26.1.0] C:\Users\Chimok\.gradle\caches\transforms-1\files-1.1\support-core-utils-26.1.0.aar\35ac33d29dfa0fef876840ca002ea1fa\AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:support-core-utils:26.1.0] C:\Users\Chimok\.gradle\caches\transforms-1\files-1.1\support-core-utils-26.1.0.aar\35ac33d29dfa0fef876840ca002ea1fa\AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:support-core-ui:26.1.0] C:\Users\Chimok\.gradle\caches\transforms-1\files-1.1\support-core-ui-26.1.0.aar\1f6177d9549dd4a25fe4361f18d1d5c5\AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:support-core-ui:26.1.0] C:\Users\Chimok\.gradle\caches\transforms-1\files-1.1\support-core-ui-26.1.0.aar\1f6177d9549dd4a25fe4361f18d1d5c5\AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:support-compat:26.1.0] C:\Users\Chimok\.gradle\caches\transforms-1\files-1.1\support-compat-26.1.0.aar\7608335ccef3d0ec1483345e035fc274\AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:support-compat:26.1.0] C:\Users\Chimok\.gradle\caches\transforms-1\files-1.1\support-compat-26.1.0.aar\7608335ccef3d0ec1483345e035fc274\AndroidManifest.xml:26:9-28:38
+	android:value
+		ADDED from [com.android.support:support-v4:26.1.0] C:\Users\Chimok\.gradle\caches\transforms-1\files-1.1\support-v4-26.1.0.aar\ee2131714645f29aa5ba311cab1d9446\AndroidManifest.xml:28:13-35
 	android:name
-		ADDED from [com.google.android.gms:play-services-auth:10.2.0] C:\Users\slumb\Desktop\TourismMalaysia\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-auth\10.2.0\AndroidManifest.xml:24:18-63
-receiver#com.google.android.gms.cast.framework.media.MediaIntentReceiver
-ADDED from [com.google.android.gms:play-services-cast-framework:10.2.0] C:\Users\slumb\Desktop\TourismMalaysia\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-cast-framework\10.2.0\AndroidManifest.xml:5:9-99
+		ADDED from [com.android.support:support-v4:26.1.0] C:\Users\Chimok\.gradle\caches\transforms-1\files-1.1\support-v4-26.1.0.aar\ee2131714645f29aa5ba311cab1d9446\AndroidManifest.xml:27:13-51
+meta-data#android.arch.lifecycle.VERSION
+ADDED from [android.arch.lifecycle:runtime:1.0.0] C:\Users\Chimok\.gradle\caches\transforms-1\files-1.1\runtime-1.0.0.aar\f63e5dabfa5c1084dd6360639c7778f8\AndroidManifest.xml:25:9-27:47
+	android:value
+		ADDED from [android.arch.lifecycle:runtime:1.0.0] C:\Users\Chimok\.gradle\caches\transforms-1\files-1.1\runtime-1.0.0.aar\f63e5dabfa5c1084dd6360639c7778f8\AndroidManifest.xml:27:13-44
 	android:name
-		ADDED from [com.google.android.gms:play-services-cast-framework:10.2.0] C:\Users\slumb\Desktop\TourismMalaysia\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-cast-framework\10.2.0\AndroidManifest.xml:5:19-97
-service#com.google.android.gms.cast.framework.media.MediaNotificationService
-ADDED from [com.google.android.gms:play-services-cast-framework:10.2.0] C:\Users\slumb\Desktop\TourismMalaysia\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-cast-framework\10.2.0\AndroidManifest.xml:6:9-103
-	android:name
-		ADDED from [com.google.android.gms:play-services-cast-framework:10.2.0] C:\Users\slumb\Desktop\TourismMalaysia\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-cast-framework\10.2.0\AndroidManifest.xml:6:18-101
-service#com.google.android.gms.cast.framework.ReconnectionService
-ADDED from [com.google.android.gms:play-services-cast-framework:10.2.0] C:\Users\slumb\Desktop\TourismMalaysia\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-cast-framework\10.2.0\AndroidManifest.xml:7:9-92
-	android:name
-		ADDED from [com.google.android.gms:play-services-cast-framework:10.2.0] C:\Users\slumb\Desktop\TourismMalaysia\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-cast-framework\10.2.0\AndroidManifest.xml:7:18-90
-uses-permission#com.google.android.c2dm.permission.RECEIVE
-ADDED from [com.google.firebase:firebase-iid:10.2.0] C:\Users\slumb\Desktop\TourismMalaysia\app\build\intermediates\exploded-aar\com.google.firebase\firebase-iid\10.2.0\AndroidManifest.xml:22:5-81
-MERGED from [com.google.android.gms:play-services-gcm:10.2.0] C:\Users\slumb\Desktop\TourismMalaysia\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-gcm\10.2.0\AndroidManifest.xml:20:5-81
-MERGED from [com.google.android.gms:play-services-iid:10.2.0] C:\Users\slumb\Desktop\TourismMalaysia\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-iid\10.2.0\AndroidManifest.xml:20:5-81
-	android:name
-		ADDED from [com.google.firebase:firebase-iid:10.2.0] C:\Users\slumb\Desktop\TourismMalaysia\app\build\intermediates\exploded-aar\com.google.firebase\firebase-iid\10.2.0\AndroidManifest.xml:22:22-79
-permission#${applicationId}.permission.C2D_MESSAGE
-ADDED from [com.google.firebase:firebase-iid:10.2.0] C:\Users\slumb\Desktop\TourismMalaysia\app\build\intermediates\exploded-aar\com.google.firebase\firebase-iid\10.2.0\AndroidManifest.xml:24:5-109
-	android:protectionLevel
-		ADDED from [com.google.firebase:firebase-iid:10.2.0] C:\Users\slumb\Desktop\TourismMalaysia\app\build\intermediates\exploded-aar\com.google.firebase\firebase-iid\10.2.0\AndroidManifest.xml:24:72-107
-	android:name
-		ADDED from [com.google.firebase:firebase-iid:10.2.0] C:\Users\slumb\Desktop\TourismMalaysia\app\build\intermediates\exploded-aar\com.google.firebase\firebase-iid\10.2.0\AndroidManifest.xml:24:17-71
-uses-permission#${applicationId}.permission.C2D_MESSAGE
-ADDED from [com.google.firebase:firebase-iid:10.2.0] C:\Users\slumb\Desktop\TourismMalaysia\app\build\intermediates\exploded-aar\com.google.firebase\firebase-iid\10.2.0\AndroidManifest.xml:26:5-78
-	android:name
-		ADDED from [com.google.firebase:firebase-iid:10.2.0] C:\Users\slumb\Desktop\TourismMalaysia\app\build\intermediates\exploded-aar\com.google.firebase\firebase-iid\10.2.0\AndroidManifest.xml:26:22-76
-receiver#com.google.firebase.iid.FirebaseInstanceIdReceiver
-ADDED from [com.google.firebase:firebase-iid:10.2.0] C:\Users\slumb\Desktop\TourismMalaysia\app\build\intermediates\exploded-aar\com.google.firebase\firebase-iid\10.2.0\AndroidManifest.xml:30:9-36:20
-	android:exported
-		ADDED from [com.google.firebase:firebase-iid:10.2.0] C:\Users\slumb\Desktop\TourismMalaysia\app\build\intermediates\exploded-aar\com.google.firebase\firebase-iid\10.2.0\AndroidManifest.xml:30:85-108
-	android:permission
-		ADDED from [com.google.firebase:firebase-iid:10.2.0] C:\Users\slumb\Desktop\TourismMalaysia\app\build\intermediates\exploded-aar\com.google.firebase\firebase-iid\10.2.0\AndroidManifest.xml:30:109-169
-	android:name
-		ADDED from [com.google.firebase:firebase-iid:10.2.0] C:\Users\slumb\Desktop\TourismMalaysia\app\build\intermediates\exploded-aar\com.google.firebase\firebase-iid\10.2.0\AndroidManifest.xml:30:19-84
-intent-filter#${applicationId}+com.google.android.c2dm.intent.RECEIVE+com.google.android.c2dm.intent.REGISTRATION
-ADDED from [com.google.firebase:firebase-iid:10.2.0] C:\Users\slumb\Desktop\TourismMalaysia\app\build\intermediates\exploded-aar\com.google.firebase\firebase-iid\10.2.0\AndroidManifest.xml:31:13-35:29
-action#com.google.android.c2dm.intent.RECEIVE
-ADDED from [com.google.firebase:firebase-iid:10.2.0] C:\Users\slumb\Desktop\TourismMalaysia\app\build\intermediates\exploded-aar\com.google.firebase\firebase-iid\10.2.0\AndroidManifest.xml:32:17-80
-	android:name
-		ADDED from [com.google.firebase:firebase-iid:10.2.0] C:\Users\slumb\Desktop\TourismMalaysia\app\build\intermediates\exploded-aar\com.google.firebase\firebase-iid\10.2.0\AndroidManifest.xml:32:25-78
-action#com.google.android.c2dm.intent.REGISTRATION
-ADDED from [com.google.firebase:firebase-iid:10.2.0] C:\Users\slumb\Desktop\TourismMalaysia\app\build\intermediates\exploded-aar\com.google.firebase\firebase-iid\10.2.0\AndroidManifest.xml:33:17-85
-	android:name
-		ADDED from [com.google.firebase:firebase-iid:10.2.0] C:\Users\slumb\Desktop\TourismMalaysia\app\build\intermediates\exploded-aar\com.google.firebase\firebase-iid\10.2.0\AndroidManifest.xml:33:25-83
-category#${applicationId}
-ADDED from [com.google.firebase:firebase-iid:10.2.0] C:\Users\slumb\Desktop\TourismMalaysia\app\build\intermediates\exploded-aar\com.google.firebase\firebase-iid\10.2.0\AndroidManifest.xml:34:17-60
-	android:name
-		ADDED from [com.google.firebase:firebase-iid:10.2.0] C:\Users\slumb\Desktop\TourismMalaysia\app\build\intermediates\exploded-aar\com.google.firebase\firebase-iid\10.2.0\AndroidManifest.xml:34:27-58
-receiver#com.google.firebase.iid.FirebaseInstanceIdInternalReceiver
-ADDED from [com.google.firebase:firebase-iid:10.2.0] C:\Users\slumb\Desktop\TourismMalaysia\app\build\intermediates\exploded-aar\com.google.firebase\firebase-iid\10.2.0\AndroidManifest.xml:40:9-119
-	android:exported
-		ADDED from [com.google.firebase:firebase-iid:10.2.0] C:\Users\slumb\Desktop\TourismMalaysia\app\build\intermediates\exploded-aar\com.google.firebase\firebase-iid\10.2.0\AndroidManifest.xml:40:93-117
-	android:name
-		ADDED from [com.google.firebase:firebase-iid:10.2.0] C:\Users\slumb\Desktop\TourismMalaysia\app\build\intermediates\exploded-aar\com.google.firebase\firebase-iid\10.2.0\AndroidManifest.xml:40:19-92
-service#com.google.firebase.iid.FirebaseInstanceIdService
-ADDED from [com.google.firebase:firebase-iid:10.2.0] C:\Users\slumb\Desktop\TourismMalaysia\app\build\intermediates\exploded-aar\com.google.firebase\firebase-iid\10.2.0\AndroidManifest.xml:44:9-48:19
-	android:exported
-		ADDED from [com.google.firebase:firebase-iid:10.2.0] C:\Users\slumb\Desktop\TourismMalaysia\app\build\intermediates\exploded-aar\com.google.firebase\firebase-iid\10.2.0\AndroidManifest.xml:44:83-106
-	android:name
-		ADDED from [com.google.firebase:firebase-iid:10.2.0] C:\Users\slumb\Desktop\TourismMalaysia\app\build\intermediates\exploded-aar\com.google.firebase\firebase-iid\10.2.0\AndroidManifest.xml:44:18-82
-intent-filter#com.google.firebase.INSTANCE_ID_EVENT
-ADDED from [com.google.firebase:firebase-iid:10.2.0] C:\Users\slumb\Desktop\TourismMalaysia\app\build\intermediates\exploded-aar\com.google.firebase\firebase-iid\10.2.0\AndroidManifest.xml:45:13-47:29
-	android:priority
-		ADDED from [com.google.firebase:firebase-iid:10.2.0] C:\Users\slumb\Desktop\TourismMalaysia\app\build\intermediates\exploded-aar\com.google.firebase\firebase-iid\10.2.0\AndroidManifest.xml:45:28-51
-action#com.google.firebase.INSTANCE_ID_EVENT
-ADDED from [com.google.firebase:firebase-iid:10.2.0] C:\Users\slumb\Desktop\TourismMalaysia\app\build\intermediates\exploded-aar\com.google.firebase\firebase-iid\10.2.0\AndroidManifest.xml:46:17-79
-	android:name
-		ADDED from [com.google.firebase:firebase-iid:10.2.0] C:\Users\slumb\Desktop\TourismMalaysia\app\build\intermediates\exploded-aar\com.google.firebase\firebase-iid\10.2.0\AndroidManifest.xml:46:25-77
-provider#com.google.firebase.provider.FirebaseInitProvider
-ADDED from [com.google.firebase:firebase-common:10.2.0] C:\Users\slumb\Desktop\TourismMalaysia\app\build\intermediates\exploded-aar\com.google.firebase\firebase-common\10.2.0\AndroidManifest.xml:6:9-194
-	android:authorities
-		ADDED from [com.google.firebase:firebase-common:10.2.0] C:\Users\slumb\Desktop\TourismMalaysia\app\build\intermediates\exploded-aar\com.google.firebase\firebase-common\10.2.0\AndroidManifest.xml:6:19-78
-	android:exported
-		ADDED from [com.google.firebase:firebase-common:10.2.0] C:\Users\slumb\Desktop\TourismMalaysia\app\build\intermediates\exploded-aar\com.google.firebase\firebase-common\10.2.0\AndroidManifest.xml:6:144-168
-	android:initOrder
-		ADDED from [com.google.firebase:firebase-common:10.2.0] C:\Users\slumb\Desktop\TourismMalaysia\app\build\intermediates\exploded-aar\com.google.firebase\firebase-common\10.2.0\AndroidManifest.xml:6:169-192
-	android:name
-		ADDED from [com.google.firebase:firebase-common:10.2.0] C:\Users\slumb\Desktop\TourismMalaysia\app\build\intermediates\exploded-aar\com.google.firebase\firebase-common\10.2.0\AndroidManifest.xml:6:79-143
-receiver#com.google.android.gms.measurement.AppMeasurementReceiver
-ADDED from [com.google.firebase:firebase-analytics:10.2.0] C:\Users\slumb\Desktop\TourismMalaysia\app\build\intermediates\exploded-aar\com.google.firebase\firebase-analytics\10.2.0\AndroidManifest.xml:25:7-26:18
-MERGED from [com.google.firebase:firebase-analytics-impl:10.2.0] C:\Users\slumb\Desktop\TourismMalaysia\app\build\intermediates\exploded-aar\com.google.firebase\firebase-analytics-impl\10.2.0\AndroidManifest.xml:25:7-26:18
-	android:enabled
-		ADDED from [com.google.firebase:firebase-analytics:10.2.0] C:\Users\slumb\Desktop\TourismMalaysia\app\build\intermediates\exploded-aar\com.google.firebase\firebase-analytics\10.2.0\AndroidManifest.xml:25:90-112
-	android:exported
-		ADDED from [com.google.firebase:firebase-analytics:10.2.0] C:\Users\slumb\Desktop\TourismMalaysia\app\build\intermediates\exploded-aar\com.google.firebase\firebase-analytics\10.2.0\AndroidManifest.xml:25:113-137
-	android:name
-		ADDED from [com.google.firebase:firebase-analytics:10.2.0] C:\Users\slumb\Desktop\TourismMalaysia\app\build\intermediates\exploded-aar\com.google.firebase\firebase-analytics\10.2.0\AndroidManifest.xml:25:17-89
-receiver#com.google.android.gms.measurement.AppMeasurementInstallReferrerReceiver
-ADDED from [com.google.firebase:firebase-analytics:10.2.0] C:\Users\slumb\Desktop\TourismMalaysia\app\build\intermediates\exploded-aar\com.google.firebase\firebase-analytics\10.2.0\AndroidManifest.xml:27:7-31:18
-	android:enabled
-		ADDED from [com.google.firebase:firebase-analytics:10.2.0] C:\Users\slumb\Desktop\TourismMalaysia\app\build\intermediates\exploded-aar\com.google.firebase\firebase-analytics\10.2.0\AndroidManifest.xml:27:162-184
-	android:permission
-		ADDED from [com.google.firebase:firebase-analytics:10.2.0] C:\Users\slumb\Desktop\TourismMalaysia\app\build\intermediates\exploded-aar\com.google.firebase\firebase-analytics\10.2.0\AndroidManifest.xml:27:105-161
-	android:name
-		ADDED from [com.google.firebase:firebase-analytics:10.2.0] C:\Users\slumb\Desktop\TourismMalaysia\app\build\intermediates\exploded-aar\com.google.firebase\firebase-analytics\10.2.0\AndroidManifest.xml:27:17-104
-intent-filter#com.android.vending.INSTALL_REFERRER
-ADDED from [com.google.firebase:firebase-analytics:10.2.0] C:\Users\slumb\Desktop\TourismMalaysia\app\build\intermediates\exploded-aar\com.google.firebase\firebase-analytics\10.2.0\AndroidManifest.xml:28:11-30:27
-action#com.android.vending.INSTALL_REFERRER
-ADDED from [com.google.firebase:firebase-analytics:10.2.0] C:\Users\slumb\Desktop\TourismMalaysia\app\build\intermediates\exploded-aar\com.google.firebase\firebase-analytics\10.2.0\AndroidManifest.xml:29:15-76
-	android:name
-		ADDED from [com.google.firebase:firebase-analytics:10.2.0] C:\Users\slumb\Desktop\TourismMalaysia\app\build\intermediates\exploded-aar\com.google.firebase\firebase-analytics\10.2.0\AndroidManifest.xml:29:23-74
-service#com.google.android.gms.measurement.AppMeasurementService
-ADDED from [com.google.firebase:firebase-analytics:10.2.0] C:\Users\slumb\Desktop\TourismMalaysia\app\build\intermediates\exploded-aar\com.google.firebase\firebase-analytics\10.2.0\AndroidManifest.xml:32:7-137
-MERGED from [com.google.firebase:firebase-analytics-impl:10.2.0] C:\Users\slumb\Desktop\TourismMalaysia\app\build\intermediates\exploded-aar\com.google.firebase\firebase-analytics-impl\10.2.0\AndroidManifest.xml:27:7-137
-	android:enabled
-		ADDED from [com.google.firebase:firebase-analytics:10.2.0] C:\Users\slumb\Desktop\TourismMalaysia\app\build\intermediates\exploded-aar\com.google.firebase\firebase-analytics\10.2.0\AndroidManifest.xml:32:88-110
-	android:exported
-		ADDED from [com.google.firebase:firebase-analytics:10.2.0] C:\Users\slumb\Desktop\TourismMalaysia\app\build\intermediates\exploded-aar\com.google.firebase\firebase-analytics\10.2.0\AndroidManifest.xml:32:111-135
-	android:name
-		ADDED from [com.google.firebase:firebase-analytics:10.2.0] C:\Users\slumb\Desktop\TourismMalaysia\app\build\intermediates\exploded-aar\com.google.firebase\firebase-analytics\10.2.0\AndroidManifest.xml:32:16-87
-service#com.google.firebase.messaging.FirebaseMessagingService
-ADDED from [com.google.firebase:firebase-messaging:10.2.0] C:\Users\slumb\Desktop\TourismMalaysia\app\build\intermediates\exploded-aar\com.google.firebase\firebase-messaging\10.2.0\AndroidManifest.xml:23:9-27:19
-	android:exported
-		ADDED from [com.google.firebase:firebase-messaging:10.2.0] C:\Users\slumb\Desktop\TourismMalaysia\app\build\intermediates\exploded-aar\com.google.firebase\firebase-messaging\10.2.0\AndroidManifest.xml:23:88-111
-	android:name
-		ADDED from [com.google.firebase:firebase-messaging:10.2.0] C:\Users\slumb\Desktop\TourismMalaysia\app\build\intermediates\exploded-aar\com.google.firebase\firebase-messaging\10.2.0\AndroidManifest.xml:23:18-87
-intent-filter#com.google.firebase.MESSAGING_EVENT
-ADDED from [com.google.firebase:firebase-messaging:10.2.0] C:\Users\slumb\Desktop\TourismMalaysia\app\build\intermediates\exploded-aar\com.google.firebase\firebase-messaging\10.2.0\AndroidManifest.xml:24:13-26:29
-	android:priority
-		ADDED from [com.google.firebase:firebase-messaging:10.2.0] C:\Users\slumb\Desktop\TourismMalaysia\app\build\intermediates\exploded-aar\com.google.firebase\firebase-messaging\10.2.0\AndroidManifest.xml:24:28-51
-action#com.google.firebase.MESSAGING_EVENT
-ADDED from [com.google.firebase:firebase-messaging:10.2.0] C:\Users\slumb\Desktop\TourismMalaysia\app\build\intermediates\exploded-aar\com.google.firebase\firebase-messaging\10.2.0\AndroidManifest.xml:25:17-77
-	android:name
-		ADDED from [com.google.firebase:firebase-messaging:10.2.0] C:\Users\slumb\Desktop\TourismMalaysia\app\build\intermediates\exploded-aar\com.google.firebase\firebase-messaging\10.2.0\AndroidManifest.xml:25:25-75
-service#com.google.android.gms.tagmanager.TagManagerService
-ADDED from [com.google.android.gms:play-services-tagmanager-api:10.2.0] C:\Users\slumb\Desktop\TourismMalaysia\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-tagmanager-api\10.2.0\AndroidManifest.xml:24:9-134
-	android:enabled
-		ADDED from [com.google.android.gms:play-services-tagmanager-api:10.2.0] C:\Users\slumb\Desktop\TourismMalaysia\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-tagmanager-api\10.2.0\AndroidManifest.xml:24:110-132
-	android:exported
-		ADDED from [com.google.android.gms:play-services-tagmanager-api:10.2.0] C:\Users\slumb\Desktop\TourismMalaysia\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-tagmanager-api\10.2.0\AndroidManifest.xml:24:85-109
-	android:name
-		ADDED from [com.google.android.gms:play-services-tagmanager-api:10.2.0] C:\Users\slumb\Desktop\TourismMalaysia\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-tagmanager-api\10.2.0\AndroidManifest.xml:24:18-84
-activity#com.google.android.gms.tagmanager.TagManagerPreviewActivity
-ADDED from [com.google.android.gms:play-services-tagmanager-api:10.2.0] C:\Users\slumb\Desktop\TourismMalaysia\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-tagmanager-api\10.2.0\AndroidManifest.xml:25:9-32:20
-	android:noHistory
-		ADDED from [com.google.android.gms:play-services-tagmanager-api:10.2.0] C:\Users\slumb\Desktop\TourismMalaysia\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-tagmanager-api\10.2.0\AndroidManifest.xml:25:94-118
-	android:name
-		ADDED from [com.google.android.gms:play-services-tagmanager-api:10.2.0] C:\Users\slumb\Desktop\TourismMalaysia\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-tagmanager-api\10.2.0\AndroidManifest.xml:25:19-93
-intent-filter#android.intent.action.VIEW+android.intent.category.BROWSABLE+android.intent.category.DEFAULT
-ADDED from [com.google.android.gms:play-services-tagmanager-api:10.2.0] C:\Users\slumb\Desktop\TourismMalaysia\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-tagmanager-api\10.2.0\AndroidManifest.xml:26:13-31:29
-data
-ADDED from [com.google.android.gms:play-services-tagmanager-api:10.2.0] C:\Users\slumb\Desktop\TourismMalaysia\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-tagmanager-api\10.2.0\AndroidManifest.xml:27:17-71
-	android:scheme
-		ADDED from [com.google.android.gms:play-services-tagmanager-api:10.2.0] C:\Users\slumb\Desktop\TourismMalaysia\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-tagmanager-api\10.2.0\AndroidManifest.xml:27:23-69
-action#android.intent.action.VIEW
-ADDED from [com.google.android.gms:play-services-tagmanager-api:10.2.0] C:\Users\slumb\Desktop\TourismMalaysia\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-tagmanager-api\10.2.0\AndroidManifest.xml:28:17-68
-	android:name
-		ADDED from [com.google.android.gms:play-services-tagmanager-api:10.2.0] C:\Users\slumb\Desktop\TourismMalaysia\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-tagmanager-api\10.2.0\AndroidManifest.xml:28:25-66
-category#android.intent.category.BROWSABLE
-ADDED from [com.google.android.gms:play-services-tagmanager-api:10.2.0] C:\Users\slumb\Desktop\TourismMalaysia\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-tagmanager-api\10.2.0\AndroidManifest.xml:30:17-77
-	android:name
-		ADDED from [com.google.android.gms:play-services-tagmanager-api:10.2.0] C:\Users\slumb\Desktop\TourismMalaysia\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-tagmanager-api\10.2.0\AndroidManifest.xml:30:27-75
+		ADDED from [android.arch.lifecycle:runtime:1.0.0] C:\Users\Chimok\.gradle\caches\transforms-1\files-1.1\runtime-1.0.0.aar\f63e5dabfa5c1084dd6360639c7778f8\AndroidManifest.xml:26:13-58

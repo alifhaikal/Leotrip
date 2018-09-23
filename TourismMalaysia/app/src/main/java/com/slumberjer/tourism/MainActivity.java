@@ -8,17 +8,21 @@ import org.apache.http.NameValuePair;
 import org.apache.http.message.BasicNameValuePair;
 import org.json.JSONArray;
 import org.json.JSONObject;
-
+import android.support.v4.app.Fragment;
 import com.google.android.gms.maps.CameraUpdateFactory;
 import com.google.android.gms.maps.GoogleMap;
 import com.google.android.gms.maps.GoogleMap.InfoWindowAdapter;
 import com.google.android.gms.maps.GoogleMap.OnInfoWindowClickListener;
 import com.google.android.gms.maps.MapFragment;
+import com.google.android.gms.maps.OnMapReadyCallback;
+import com.google.android.gms.maps.SupportMapFragment;
 import com.google.android.gms.maps.model.BitmapDescriptorFactory;
 import com.google.android.gms.maps.model.CameraPosition;
 import com.google.android.gms.maps.model.LatLng;
 import com.google.android.gms.maps.model.Marker;
 import com.google.android.gms.maps.model.MarkerOptions;
+
+import android.support.v4.app.FragmentActivity;
 import android.view.ViewGroup.LayoutParams;
 import android.app.Activity;
 import android.app.ProgressDialog;
@@ -38,7 +42,7 @@ import android.widget.Spinner;
 import android.widget.TextView;
 import android.widget.Toast;
 
-public class MainActivity extends Activity implements OnInfoWindowClickListener {
+public class MainActivity extends FragmentActivity implements OnInfoWindowClickListener,OnMapReadyCallback {
 	GoogleMap myMap;
 	Spinner sp1;
 	private ProgressDialog pDialog;
@@ -59,17 +63,29 @@ public class MainActivity extends Activity implements OnInfoWindowClickListener 
 		if (isInternetOn()) {
 			setContentView(R.layout.activity_main);
 			sv = (ScrollView) findViewById(R.id.ScrollView1);
-			myMap = ((MapFragment) getFragmentManager().findFragmentById(R.id.map)).getMap();
-			myMap.setMyLocationEnabled(true);
+			setUpMapIfNeeded();
 			sp1 = (Spinner) findViewById(R.id.spinner1);
-			myMap.setInfoWindowAdapter(new MyInfoWindowAdapter());
+		} else {
+			finish();
+		}
+	}
+
+	private void setUpMapIfNeeded() {
+		((MapFragment) getFragmentManager().findFragmentById(R.id.map)).getMapAsync(new OnMapReadyCallback() {
+			@Override
+			public void onMapReady(GoogleMap map) {
+				myMap = map;
+			}
+	});}
+
+	@Override
+	public void onMapReady(GoogleMap googleMap) {
+		myMap = googleMap;
+		myMap.setInfoWindowAdapter(new MyInfoWindowAdapter());
 			myMap.setOnInfoWindowClickListener(this);
 			CameraPosition cameraPosition = new CameraPosition.Builder().target(new LatLng(4.5259963, 108.1950059))
 					.zoom(5).build();
 			myMap.animateCamera(CameraUpdateFactory.newCameraPosition(cameraPosition));
-		} else {
-			finish();
-		}
 	}
 
 	@Override
