@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "334247186044",
+    "firebase_url": "https://leotrip-69677.firebaseio.com",
+    "project_id": "leotrip-69677",
+    "storage_bucket": "leotrip-69677.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:334247186044:android:069704ff846c2a65",
+        "android_client_info": {
+          "package_name": "com.shrikanthravi.customnavigationdrawer"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "334247186044-jtfbkkvitgpfdbgvv8uuhd9ert8otd18.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.shrikanthravi.customnavigationdrawer",
+            "certificate_hash": "cbbf04c7be1f9743ce1ddcb82e14ec6cb67a0d49"
+          }
+        },
+        {
+          "client_id": "334247186044-76107n1ha91evk05ea3c2ddcrghr5308.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAQ3ZNhYq17rcfkPJNvrMq4Z7bENzETqJ8"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "334247186044-76107n1ha91evk05ea3c2ddcrghr5308.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

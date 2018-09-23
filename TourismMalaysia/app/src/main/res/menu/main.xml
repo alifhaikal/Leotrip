@@ -1,9 +1,0 @@
-<menu xmlns:android="http://schemas.android.com/apk/res/android"
-    xmlns:tools="http://schemas.android.com/tools"
-    tools:context="com.example.googlemapexample.MainActivity" >
-    <item android:id="@+id/item1" android:title="Normal"></item>
-    <item android:id="@+id/item2" android:title="Hybrid"></item>
-    <item android:id="@+id/item3" android:title="Sattelite"></item>
-    <item android:id="@+id/item4" android:title="Terrain"></item>
-
-</menu>

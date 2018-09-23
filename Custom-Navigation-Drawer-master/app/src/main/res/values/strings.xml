@@ -1,0 +1,20 @@
+<resources>
+    <string name="app_name">LeoTrip</string>
+    <string name="action_settings">Settings</string>
+    <string-array name="states">
+        <item >Perlis</item>
+        <item >Kedah</item>
+        <item >Perak</item>
+        <item >Pulau Pinang</item>
+        <item >Terengganu</item>
+        <item >Kelantan</item>
+        <item >Selangor</item>
+        <item >Melaka</item>
+        <item >Negeri Sembilan</item>
+        <item >Pahang</item>
+        <item >Johor</item>
+        <item >Sarawak</item>
+        <item >Sabah</item>
+    </string-array>
+
+</resources>
